@@ -1,0 +1,9 @@
+# Objects
+*.o
+
+# Executables
+main
+
+# Result
+result
+

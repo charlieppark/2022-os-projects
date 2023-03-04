@@ -1,0 +1,2617 @@
+/opt/android.tar - 1 prods - 1 cons - Buffer 4096 Bytes :
+
+real	7m11.352s
+user	7m10.197s
+sys	0m10.744s
+ 
+/opt/android.tar - 1 prods - 1 cons - Buffer 131072 Bytes :
+
+real	3m18.443s
+user	3m17.625s
+sys	0m1.930s
+ 
+/opt/android.tar - 1 prods - 1 cons - Buffer 1048576 Bytes :
+
+real	1m53.373s
+user	1m52.342s
+sys	0m1.832s
+ 
+/opt/android.tar - 6 prods - 6 cons - Buffer 4096 Bytes :
+
+real	1m15.103s
+user	7m17.304s
+sys	0m19.024s
+ 
+/opt/android.tar - 6 prods - 6 cons - Buffer 131072 Bytes :
+
+real	0m34.049s
+user	3m19.624s
+sys	0m2.229s
+ 
+/opt/android.tar - 6 prods - 6 cons - Buffer 1048576 Bytes :
+
+real	0m19.660s
+user	1m53.221s
+sys	0m2.213s
+ 
+/opt/android.tar - 11 prods - 11 cons - Buffer 4096 Bytes :
+
+real	0m43.959s
+user	7m27.451s
+sys	0m23.691s
+ 
+/opt/android.tar - 11 prods - 11 cons - Buffer 131072 Bytes :
+
+real	0m19.091s
+user	3m20.627s
+sys	0m2.300s
+ 
+/opt/android.tar - 11 prods - 11 cons - Buffer 1048576 Bytes :
+
+real	0m11.221s
+user	1m54.164s
+sys	0m2.261s
+ 
+/opt/android.tar - 16 prods - 16 cons - Buffer 4096 Bytes :
+
+real	0m32.326s
+user	7m39.617s
+sys	0m24.195s
+ 
+/opt/android.tar - 16 prods - 16 cons - Buffer 131072 Bytes :
+
+real	0m13.405s
+user	3m21.779s
+sys	0m2.110s
+ 
+/opt/android.tar - 16 prods - 16 cons - Buffer 1048576 Bytes :
+
+real	0m7.997s
+user	1m55.527s
+sys	0m2.064s
+ 
+/opt/android.tar - 21 prods - 21 cons - Buffer 4096 Bytes :
+
+real	0m25.990s
+user	7m49.890s
+sys	0m24.067s
+ 
+/opt/android.tar - 21 prods - 21 cons - Buffer 131072 Bytes :
+
+real	0m10.390s
+user	3m23.021s
+sys	0m2.030s
+ 
+/opt/android.tar - 21 prods - 21 cons - Buffer 1048576 Bytes :
+
+real	0m6.256s
+user	1m55.229s
+sys	0m1.910s
+ 
+/opt/android.tar - 26 prods - 26 cons - Buffer 4096 Bytes :
+
+real	0m23.488s
+user	8m33.577s
+sys	0m24.568s
+ 
+/opt/android.tar - 26 prods - 26 cons - Buffer 131072 Bytes :
+
+real	0m8.580s
+user	3m27.133s
+sys	0m1.772s
+ 
+/opt/android.tar - 26 prods - 26 cons - Buffer 1048576 Bytes :
+
+real	0m5.163s
+user	1m56.272s
+sys	0m1.545s
+ 
+/opt/android.tar - 31 prods - 31 cons - Buffer 4096 Bytes :
+
+real	0m22.917s
+user	9m49.902s
+sys	0m25.786s
+ 
+/opt/android.tar - 31 prods - 31 cons - Buffer 131072 Bytes :
+
+real	0m8.198s
+user	3m55.144s
+sys	0m1.734s
+ 
+/opt/android.tar - 31 prods - 31 cons - Buffer 1048576 Bytes :
+
+real	0m5.052s
+user	2m11.211s
+sys	0m1.804s
+ 
+/opt/android.tar - 36 prods - 36 cons - Buffer 4096 Bytes :
+
+real	0m21.577s
+user	10m32.445s
+sys	0m25.108s
+ 
+/opt/android.tar - 36 prods - 36 cons - Buffer 131072 Bytes :
+
+real	0m7.922s
+user	4m22.021s
+sys	0m1.867s
+ 
+/opt/android.tar - 36 prods - 36 cons - Buffer 1048576 Bytes :
+
+real	0m4.893s
+user	2m25.202s
+sys	0m1.837s
+ 
+/opt/android.tar - 41 prods - 41 cons - Buffer 4096 Bytes :
+
+real	0m20.565s
+user	11m11.345s
+sys	0m25.597s
+ 
+/opt/android.tar - 41 prods - 41 cons - Buffer 131072 Bytes :
+
+real	0m7.561s
+user	4m43.993s
+sys	0m1.849s
+ 
+/opt/android.tar - 41 prods - 41 cons - Buffer 1048576 Bytes :
+
+real	0m4.731s
+user	2m37.291s
+sys	0m1.816s
+ 
+/opt/android.tar - 46 prods - 46 cons - Buffer 4096 Bytes :
+
+real	0m19.620s
+user	11m46.156s
+sys	0m24.972s
+ 
+/opt/android.tar - 46 prods - 46 cons - Buffer 131072 Bytes :
+
+real	0m7.246s
+user	5m3.922s
+sys	0m1.838s
+ 
+/opt/android.tar - 46 prods - 46 cons - Buffer 1048576 Bytes :
+
+real	0m4.658s
+user	2m47.922s
+sys	0m1.948s
+ 
+/opt/android.tar - 51 prods - 51 cons - Buffer 4096 Bytes :
+
+real	0m19.065s
+user	12m20.729s
+sys	0m25.550s
+ 
+/opt/android.tar - 51 prods - 51 cons - Buffer 131072 Bytes :
+
+real	0m6.955s
+user	5m22.517s
+sys	0m1.910s
+ 
+/opt/android.tar - 51 prods - 51 cons - Buffer 1048576 Bytes :
+
+real	0m4.550s
+user	2m59.431s
+sys	0m1.984s
+ 
+/opt/android.tar - 56 prods - 56 cons - Buffer 4096 Bytes :
+
+real	0m19.005s
+user	12m27.344s
+sys	0m26.440s
+ 
+/opt/android.tar - 56 prods - 56 cons - Buffer 131072 Bytes :
+
+real	0m6.911s
+user	5m25.777s
+sys	0m1.882s
+ 
+/opt/android.tar - 56 prods - 56 cons - Buffer 1048576 Bytes :
+
+real	0m4.486s
+user	3m0.153s
+sys	0m1.873s
+ 
+/opt/android.tar - 61 prods - 61 cons - Buffer 4096 Bytes :
+
+real	0m19.029s
+user	12m26.158s
+sys	0m27.396s
+ 
+/opt/android.tar - 61 prods - 61 cons - Buffer 131072 Bytes :
+
+real	0m6.921s
+user	5m25.944s
+sys	0m1.927s
+ 
+/opt/android.tar - 61 prods - 61 cons - Buffer 1048576 Bytes :
+
+real	0m4.474s
+user	3m0.486s
+sys	0m1.816s
+ 
+/opt/android.tar - 66 prods - 66 cons - Buffer 4096 Bytes :
+
+real	0m19.052s
+user	12m27.944s
+sys	0m27.207s
+ 
+/opt/android.tar - 66 prods - 66 cons - Buffer 131072 Bytes :
+
+real	0m6.896s
+user	5m25.488s
+sys	0m1.966s
+ 
+/opt/android.tar - 66 prods - 66 cons - Buffer 1048576 Bytes :
+
+real	0m4.404s
+user	3m1.072s
+sys	0m1.845s
+ 
+/opt/android.tar - 71 prods - 71 cons - Buffer 4096 Bytes :
+
+real	0m18.976s
+user	12m26.257s
+sys	0m26.920s
+ 
+/opt/android.tar - 71 prods - 71 cons - Buffer 131072 Bytes :
+
+real	0m6.914s
+user	5m25.977s
+sys	0m1.941s
+ 
+/opt/android.tar - 71 prods - 71 cons - Buffer 1048576 Bytes :
+
+real	0m4.427s
+user	3m1.588s
+sys	0m1.869s
+ 
+/opt/android.tar - 76 prods - 76 cons - Buffer 4096 Bytes :
+
+real	0m19.057s
+user	12m27.915s
+sys	0m27.124s
+ 
+/opt/android.tar - 76 prods - 76 cons - Buffer 131072 Bytes :
+
+real	0m6.892s
+user	5m25.654s
+sys	0m1.982s
+ 
+/opt/android.tar - 76 prods - 76 cons - Buffer 1048576 Bytes :
+
+real	0m4.420s
+user	3m1.243s
+sys	0m1.804s
+ 
+/opt/android.tar - 81 prods - 81 cons - Buffer 4096 Bytes :
+
+real	0m19.021s
+user	12m26.785s
+sys	0m27.105s
+ 
+/opt/android.tar - 81 prods - 81 cons - Buffer 131072 Bytes :
+
+real	0m6.881s
+user	5m26.048s
+sys	0m1.885s
+ 
+/opt/android.tar - 81 prods - 81 cons - Buffer 1048576 Bytes :
+
+real	0m4.398s
+user	3m1.254s
+sys	0m1.861s
+ 
+/opt/android.tar - 86 prods - 86 cons - Buffer 4096 Bytes :
+
+real	0m19.077s
+user	12m27.918s
+sys	0m27.074s
+ 
+/opt/android.tar - 86 prods - 86 cons - Buffer 131072 Bytes :
+
+real	0m6.898s
+user	5m25.877s
+sys	0m2.046s
+ 
+/opt/android.tar - 86 prods - 86 cons - Buffer 1048576 Bytes :
+
+real	0m4.380s
+user	3m2.046s
+sys	0m1.857s
+ 
+/opt/android.tar - 91 prods - 91 cons - Buffer 4096 Bytes :
+
+real	0m19.067s
+user	12m27.683s
+sys	0m27.544s
+ 
+/opt/android.tar - 91 prods - 91 cons - Buffer 131072 Bytes :
+
+real	0m6.858s
+user	5m25.395s
+sys	0m1.910s
+ 
+/opt/android.tar - 91 prods - 91 cons - Buffer 1048576 Bytes :
+
+real	0m4.272s
+user	3m2.485s
+sys	0m1.768s
+ 
+/opt/android.tar - 96 prods - 96 cons - Buffer 4096 Bytes :
+
+real	0m19.025s
+user	12m26.083s
+sys	0m27.559s
+ 
+/opt/android.tar - 96 prods - 96 cons - Buffer 131072 Bytes :
+
+real	0m6.864s
+user	5m25.548s
+sys	0m1.911s
+ 
+/opt/android.tar - 96 prods - 96 cons - Buffer 1048576 Bytes :
+
+real	0m4.336s
+user	3m2.012s
+sys	0m1.881s
+ 
+/opt/android.tar - 101 prods - 101 cons - Buffer 4096 Bytes :
+
+real	0m19.048s
+user	12m27.117s
+sys	0m26.930s
+ 
+/opt/android.tar - 101 prods - 101 cons - Buffer 131072 Bytes :
+
+real	0m6.868s
+user	5m26.018s
+sys	0m1.963s
+ 
+/opt/android.tar - 101 prods - 101 cons - Buffer 1048576 Bytes :
+
+real	0m4.321s
+user	3m2.491s
+sys	0m1.819s
+ 
+/opt/android.tar - 106 prods - 106 cons - Buffer 4096 Bytes :
+
+real	0m19.018s
+user	12m25.819s
+sys	0m27.879s
+ 
+/opt/android.tar - 106 prods - 106 cons - Buffer 131072 Bytes :
+
+real	0m6.843s
+user	5m25.713s
+sys	0m1.871s
+ 
+/opt/android.tar - 106 prods - 106 cons - Buffer 1048576 Bytes :
+
+real	0m4.205s
+user	3m3.397s
+sys	0m1.752s
+ 
+/opt/android.tar - 111 prods - 111 cons - Buffer 4096 Bytes :
+
+real	0m19.040s
+user	12m27.347s
+sys	0m27.276s
+ 
+/opt/android.tar - 111 prods - 111 cons - Buffer 131072 Bytes :
+
+real	0m6.844s
+user	5m25.243s
+sys	0m1.967s
+ 
+/opt/android.tar - 111 prods - 111 cons - Buffer 1048576 Bytes :
+
+real	0m4.136s
+user	3m3.575s
+sys	0m1.677s
+ 
+/opt/android.tar - 116 prods - 116 cons - Buffer 4096 Bytes :
+
+real	0m19.045s
+user	12m25.254s
+sys	0m28.095s
+ 
+/opt/android.tar - 116 prods - 116 cons - Buffer 131072 Bytes :
+
+real	0m6.854s
+user	5m25.659s
+sys	0m1.928s
+ 
+/opt/android.tar - 116 prods - 116 cons - Buffer 1048576 Bytes :
+
+real	0m4.145s
+user	3m3.187s
+sys	0m1.756s
+ 
+/opt/android.tar - 121 prods - 121 cons - Buffer 4096 Bytes :
+
+real	0m19.015s
+user	12m25.486s
+sys	0m27.585s
+ 
+/opt/android.tar - 121 prods - 121 cons - Buffer 131072 Bytes :
+
+real	0m6.840s
+user	5m25.441s
+sys	0m1.995s
+ 
+/opt/android.tar - 121 prods - 121 cons - Buffer 1048576 Bytes :
+
+real	0m4.136s
+user	3m3.042s
+sys	0m1.820s
+ 
+/opt/android.tar - 126 prods - 126 cons - Buffer 4096 Bytes :
+
+real	0m19.101s
+user	12m27.144s
+sys	0m27.709s
+ 
+/opt/android.tar - 126 prods - 126 cons - Buffer 131072 Bytes :
+
+real	0m6.837s
+user	5m25.396s
+sys	0m2.031s
+ 
+/opt/android.tar - 126 prods - 126 cons - Buffer 1048576 Bytes :
+
+real	0m4.112s
+user	3m3.552s
+sys	0m1.601s
+ 
+/opt/android.tar - 131 prods - 131 cons - Buffer 4096 Bytes :
+
+real	0m19.066s
+user	12m26.596s
+sys	0m27.495s
+ 
+/opt/android.tar - 131 prods - 131 cons - Buffer 131072 Bytes :
+
+real	0m6.838s
+user	5m25.421s
+sys	0m2.030s
+ 
+/opt/android.tar - 131 prods - 131 cons - Buffer 1048576 Bytes :
+
+real	0m4.116s
+user	3m3.796s
+sys	0m1.672s
+ 
+/opt/android.tar - 136 prods - 136 cons - Buffer 4096 Bytes :
+
+real	0m19.049s
+user	12m25.877s
+sys	0m27.153s
+ 
+/opt/android.tar - 136 prods - 136 cons - Buffer 131072 Bytes :
+
+real	0m6.825s
+user	5m25.481s
+sys	0m2.042s
+ 
+/opt/android.tar - 136 prods - 136 cons - Buffer 1048576 Bytes :
+
+real	0m4.129s
+user	3m3.631s
+sys	0m1.772s
+ 
+/opt/android.tar - 141 prods - 141 cons - Buffer 4096 Bytes :
+
+real	0m19.059s
+user	12m26.243s
+sys	0m27.687s
+ 
+/opt/android.tar - 141 prods - 141 cons - Buffer 131072 Bytes :
+
+real	0m6.820s
+user	5m25.565s
+sys	0m2.002s
+ 
+/opt/android.tar - 141 prods - 141 cons - Buffer 1048576 Bytes :
+
+real	0m4.129s
+user	3m3.371s
+sys	0m1.705s
+ 
+/opt/android.tar - 146 prods - 146 cons - Buffer 4096 Bytes :
+
+real	0m19.075s
+user	12m26.584s
+sys	0m27.403s
+ 
+/opt/android.tar - 146 prods - 146 cons - Buffer 131072 Bytes :
+
+real	0m6.821s
+user	5m25.667s
+sys	0m1.999s
+ 
+/opt/android.tar - 146 prods - 146 cons - Buffer 1048576 Bytes :
+
+real	0m4.198s
+user	3m4.034s
+sys	0m1.719s
+ 
+/opt/android.tar - 151 prods - 151 cons - Buffer 4096 Bytes :
+
+real	0m19.016s
+user	12m25.910s
+sys	0m27.580s
+ 
+/opt/android.tar - 151 prods - 151 cons - Buffer 131072 Bytes :
+
+real	0m6.814s
+user	5m25.339s
+sys	0m2.043s
+ 
+/opt/android.tar - 151 prods - 151 cons - Buffer 1048576 Bytes :
+
+real	0m4.100s
+user	3m3.576s
+sys	0m1.776s
+ 
+/opt/android.tar - 156 prods - 156 cons - Buffer 4096 Bytes :
+
+real	0m19.032s
+user	12m25.460s
+sys	0m28.178s
+ 
+/opt/android.tar - 156 prods - 156 cons - Buffer 131072 Bytes :
+
+real	0m6.813s
+user	5m25.390s
+sys	0m2.054s
+ 
+/opt/android.tar - 156 prods - 156 cons - Buffer 1048576 Bytes :
+
+real	0m4.165s
+user	3m3.616s
+sys	0m1.784s
+ 
+/opt/android.tar - 161 prods - 161 cons - Buffer 4096 Bytes :
+
+real	0m19.001s
+user	12m24.326s
+sys	0m28.589s
+ 
+/opt/android.tar - 161 prods - 161 cons - Buffer 131072 Bytes :
+
+real	0m6.793s
+user	5m25.462s
+sys	0m1.983s
+ 
+/opt/android.tar - 161 prods - 161 cons - Buffer 1048576 Bytes :
+
+real	0m4.132s
+user	3m4.154s
+sys	0m1.761s
+ 
+/opt/android.tar - 166 prods - 166 cons - Buffer 4096 Bytes :
+
+real	0m18.989s
+user	12m25.331s
+sys	0m28.165s
+ 
+/opt/android.tar - 166 prods - 166 cons - Buffer 131072 Bytes :
+
+real	0m6.791s
+user	5m25.222s
+sys	0m2.074s
+ 
+/opt/android.tar - 166 prods - 166 cons - Buffer 1048576 Bytes :
+
+real	0m4.144s
+user	3m3.994s
+sys	0m1.709s
+ 
+/opt/android.tar - 171 prods - 171 cons - Buffer 4096 Bytes :
+
+real	0m18.959s
+user	12m24.175s
+sys	0m28.333s
+ 
+/opt/android.tar - 171 prods - 171 cons - Buffer 131072 Bytes :
+
+real	0m6.829s
+user	5m25.918s
+sys	0m2.034s
+ 
+/opt/android.tar - 171 prods - 171 cons - Buffer 1048576 Bytes :
+
+real	0m4.163s
+user	3m4.114s
+sys	0m1.744s
+ 
+/opt/android.tar - 176 prods - 176 cons - Buffer 4096 Bytes :
+
+real	0m19.007s
+user	12m25.286s
+sys	0m28.322s
+ 
+/opt/android.tar - 176 prods - 176 cons - Buffer 131072 Bytes :
+
+real	0m6.803s
+user	5m25.482s
+sys	0m2.113s
+ 
+/opt/android.tar - 176 prods - 176 cons - Buffer 1048576 Bytes :
+
+real	0m4.167s
+user	3m3.985s
+sys	0m1.812s
+ 
+/opt/android.tar - 181 prods - 181 cons - Buffer 4096 Bytes :
+
+real	0m18.996s
+user	12m25.996s
+sys	0m27.867s
+ 
+/opt/android.tar - 181 prods - 181 cons - Buffer 131072 Bytes :
+
+real	0m6.806s
+user	5m25.989s
+sys	0m2.130s
+ 
+/opt/android.tar - 181 prods - 181 cons - Buffer 1048576 Bytes :
+
+real	0m4.201s
+user	3m4.290s
+sys	0m1.792s
+ 
+/opt/android.tar - 186 prods - 186 cons - Buffer 4096 Bytes :
+
+real	0m18.920s
+user	12m23.900s
+sys	0m28.313s
+ 
+/opt/android.tar - 186 prods - 186 cons - Buffer 131072 Bytes :
+
+real	0m6.806s
+user	5m25.877s
+sys	0m2.107s
+ 
+/opt/android.tar - 186 prods - 186 cons - Buffer 1048576 Bytes :
+
+real	0m4.170s
+user	3m4.263s
+sys	0m1.808s
+ 
+/opt/android.tar - 191 prods - 191 cons - Buffer 4096 Bytes :
+
+real	0m18.966s
+user	12m24.752s
+sys	0m28.023s
+ 
+/opt/android.tar - 191 prods - 191 cons - Buffer 131072 Bytes :
+
+real	0m6.836s
+user	5m26.012s
+sys	0m2.046s
+ 
+/opt/android.tar - 191 prods - 191 cons - Buffer 1048576 Bytes :
+
+real	0m4.177s
+user	3m3.741s
+sys	0m1.744s
+ 
+/opt/android.tar - 196 prods - 196 cons - Buffer 4096 Bytes :
+
+real	0m18.966s
+user	12m24.607s
+sys	0m28.569s
+ 
+/opt/android.tar - 196 prods - 196 cons - Buffer 131072 Bytes :
+
+real	0m6.825s
+user	5m26.108s
+sys	0m2.035s
+ 
+/opt/android.tar - 196 prods - 196 cons - Buffer 1048576 Bytes :
+
+real	0m4.183s
+user	3m4.419s
+sys	0m1.812s
+ 
+/opt/android.tar - 201 prods - 201 cons - Buffer 4096 Bytes :
+
+real	0m18.974s
+user	12m23.686s
+sys	0m29.109s
+ 
+/opt/android.tar - 201 prods - 201 cons - Buffer 131072 Bytes :
+
+real	0m6.809s
+user	5m25.777s
+sys	0m2.114s
+ 
+/opt/android.tar - 201 prods - 201 cons - Buffer 1048576 Bytes :
+
+real	0m4.206s
+user	3m4.128s
+sys	0m1.893s
+ 
+/opt/android.tar - 206 prods - 206 cons - Buffer 4096 Bytes :
+
+real	0m18.965s
+user	12m24.329s
+sys	0m28.787s
+ 
+/opt/android.tar - 206 prods - 206 cons - Buffer 131072 Bytes :
+
+real	0m6.808s
+user	5m25.458s
+sys	0m2.015s
+ 
+/opt/android.tar - 206 prods - 206 cons - Buffer 1048576 Bytes :
+
+real	0m4.230s
+user	3m4.193s
+sys	0m1.777s
+ 
+/opt/android.tar - 211 prods - 211 cons - Buffer 4096 Bytes :
+
+real	0m18.943s
+user	12m25.307s
+sys	0m28.055s
+ 
+/opt/android.tar - 211 prods - 211 cons - Buffer 131072 Bytes :
+
+real	0m6.806s
+user	5m25.340s
+sys	0m2.195s
+ 
+/opt/android.tar - 211 prods - 211 cons - Buffer 1048576 Bytes :
+
+real	0m4.197s
+user	3m3.994s
+sys	0m1.809s
+ 
+/opt/android.tar - 216 prods - 216 cons - Buffer 4096 Bytes :
+
+real	0m18.932s
+user	12m24.351s
+sys	0m28.140s
+ 
+/opt/android.tar - 216 prods - 216 cons - Buffer 131072 Bytes :
+
+real	0m6.785s
+user	5m25.468s
+sys	0m1.986s
+ 
+/opt/android.tar - 216 prods - 216 cons - Buffer 1048576 Bytes :
+
+real	0m4.226s
+user	3m3.978s
+sys	0m1.844s
+ 
+/opt/android.tar - 221 prods - 221 cons - Buffer 4096 Bytes :
+
+real	0m18.999s
+user	12m24.825s
+sys	0m29.163s
+ 
+/opt/android.tar - 221 prods - 221 cons - Buffer 131072 Bytes :
+
+real	0m6.802s
+user	5m25.991s
+sys	0m2.194s
+ 
+/opt/android.tar - 221 prods - 221 cons - Buffer 1048576 Bytes :
+
+real	0m4.236s
+user	3m3.810s
+sys	0m1.820s
+ 
+/opt/android.tar - 226 prods - 226 cons - Buffer 4096 Bytes :
+
+real	0m19.067s
+user	12m26.655s
+sys	0m28.465s
+ 
+/opt/android.tar - 226 prods - 226 cons - Buffer 131072 Bytes :
+
+real	0m6.809s
+user	5m25.895s
+sys	0m2.178s
+ 
+/opt/android.tar - 226 prods - 226 cons - Buffer 1048576 Bytes :
+
+real	0m4.232s
+user	3m4.175s
+sys	0m1.896s
+ 
+/opt/android.tar - 231 prods - 231 cons - Buffer 4096 Bytes :
+
+real	0m18.961s
+user	12m24.486s
+sys	0m29.286s
+ 
+/opt/android.tar - 231 prods - 231 cons - Buffer 131072 Bytes :
+
+real	0m6.860s
+user	5m26.326s
+sys	0m2.072s
+ 
+/opt/android.tar - 231 prods - 231 cons - Buffer 1048576 Bytes :
+
+real	0m4.234s
+user	3m4.088s
+sys	0m1.893s
+ 
+/opt/android.tar - 236 prods - 236 cons - Buffer 4096 Bytes :
+
+real	0m18.931s
+user	12m23.795s
+sys	0m28.427s
+ 
+/opt/android.tar - 236 prods - 236 cons - Buffer 131072 Bytes :
+
+real	0m6.810s
+user	5m25.846s
+sys	0m2.099s
+ 
+/opt/android.tar - 236 prods - 236 cons - Buffer 1048576 Bytes :
+
+real	0m4.244s
+user	3m4.372s
+sys	0m1.832s
+ 
+/opt/android.tar - 241 prods - 241 cons - Buffer 4096 Bytes :
+
+real	0m19.000s
+user	12m25.870s
+sys	0m28.973s
+ 
+/opt/android.tar - 241 prods - 241 cons - Buffer 131072 Bytes :
+
+real	0m6.823s
+user	5m25.719s
+sys	0m2.043s
+ 
+/opt/android.tar - 241 prods - 241 cons - Buffer 1048576 Bytes :
+
+real	0m4.223s
+user	3m4.051s
+sys	0m1.892s
+ 
+/opt/android.tar - 246 prods - 246 cons - Buffer 4096 Bytes :
+
+real	0m18.910s
+user	12m23.426s
+sys	0m28.605s
+ 
+/opt/android.tar - 246 prods - 246 cons - Buffer 131072 Bytes :
+
+real	0m6.836s
+user	5m25.685s
+sys	0m2.065s
+ 
+/opt/android.tar - 246 prods - 246 cons - Buffer 1048576 Bytes :
+
+real	0m4.250s
+user	3m4.368s
+sys	0m1.824s
+ 
+/opt/android.tar - 251 prods - 251 cons - Buffer 4096 Bytes :
+
+real	0m18.901s
+user	12m23.517s
+sys	0m28.783s
+ 
+/opt/android.tar - 251 prods - 251 cons - Buffer 131072 Bytes :
+
+real	0m6.808s
+user	5m25.721s
+sys	0m2.115s
+ 
+/opt/android.tar - 251 prods - 251 cons - Buffer 1048576 Bytes :
+
+real	0m4.227s
+user	3m4.328s
+sys	0m1.812s
+ 
+/opt/android.tar - 256 prods - 256 cons - Buffer 4096 Bytes :
+
+real	0m18.915s
+user	12m24.113s
+sys	0m28.891s
+ 
+/opt/android.tar - 256 prods - 256 cons - Buffer 131072 Bytes :
+
+real	0m6.830s
+user	5m25.785s
+sys	0m2.014s
+ 
+/opt/android.tar - 256 prods - 256 cons - Buffer 1048576 Bytes :
+
+real	0m4.258s
+user	3m4.339s
+sys	0m1.880s
+ 
+/opt/android.tar - 261 prods - 261 cons - Buffer 4096 Bytes :
+
+real	0m18.918s
+user	12m25.161s
+sys	0m28.219s
+ 
+/opt/android.tar - 261 prods - 261 cons - Buffer 131072 Bytes :
+
+real	0m6.869s
+user	5m26.047s
+sys	0m2.135s
+ 
+/opt/android.tar - 261 prods - 261 cons - Buffer 1048576 Bytes :
+
+real	0m4.248s
+user	3m4.207s
+sys	0m1.888s
+ 
+/opt/android.tar - 266 prods - 266 cons - Buffer 4096 Bytes :
+
+real	0m18.912s
+user	12m24.802s
+sys	0m28.418s
+ 
+/opt/android.tar - 266 prods - 266 cons - Buffer 131072 Bytes :
+
+real	0m6.875s
+user	5m26.343s
+sys	0m2.110s
+ 
+/opt/android.tar - 266 prods - 266 cons - Buffer 1048576 Bytes :
+
+real	0m4.264s
+user	3m4.348s
+sys	0m1.912s
+ 
+/opt/android.tar - 271 prods - 271 cons - Buffer 4096 Bytes :
+
+real	0m18.909s
+user	12m23.582s
+sys	0m29.205s
+ 
+/opt/android.tar - 271 prods - 271 cons - Buffer 131072 Bytes :
+
+real	0m6.847s
+user	5m25.267s
+sys	0m2.298s
+ 
+/opt/android.tar - 271 prods - 271 cons - Buffer 1048576 Bytes :
+
+real	0m4.254s
+user	3m4.156s
+sys	0m1.928s
+ 
+/opt/android.tar - 276 prods - 276 cons - Buffer 4096 Bytes :
+
+real	0m18.933s
+user	12m24.115s
+sys	0m29.050s
+ 
+/opt/android.tar - 276 prods - 276 cons - Buffer 131072 Bytes :
+
+real	0m6.812s
+user	5m26.058s
+sys	0m2.093s
+ 
+/opt/android.tar - 276 prods - 276 cons - Buffer 1048576 Bytes :
+
+real	0m4.252s
+user	3m3.974s
+sys	0m1.928s
+ 
+/opt/android.tar - 281 prods - 281 cons - Buffer 4096 Bytes :
+
+real	0m18.979s
+user	12m24.345s
+sys	0m29.331s
+ 
+/opt/android.tar - 281 prods - 281 cons - Buffer 131072 Bytes :
+
+real	0m6.828s
+user	5m24.976s
+sys	0m2.215s
+ 
+/opt/android.tar - 281 prods - 281 cons - Buffer 1048576 Bytes :
+
+real	0m4.271s
+user	3m4.146s
+sys	0m1.945s
+ 
+/opt/android.tar - 286 prods - 286 cons - Buffer 4096 Bytes :
+
+real	0m18.965s
+user	12m24.979s
+sys	0m28.952s
+ 
+/opt/android.tar - 286 prods - 286 cons - Buffer 131072 Bytes :
+
+real	0m6.822s
+user	5m25.673s
+sys	0m2.098s
+ 
+/opt/android.tar - 286 prods - 286 cons - Buffer 1048576 Bytes :
+
+real	0m4.269s
+user	3m4.487s
+sys	0m2.021s
+ 
+/opt/android.tar - 291 prods - 291 cons - Buffer 4096 Bytes :
+
+real	0m18.905s
+user	12m23.402s
+sys	0m29.090s
+ 
+/opt/android.tar - 291 prods - 291 cons - Buffer 131072 Bytes :
+
+real	0m6.891s
+user	5m26.727s
+sys	0m2.184s
+ 
+/opt/android.tar - 291 prods - 291 cons - Buffer 1048576 Bytes :
+
+real	0m4.279s
+user	3m4.333s
+sys	0m1.984s
+ 
+/opt/android.tar - 296 prods - 296 cons - Buffer 4096 Bytes :
+
+real	0m18.910s
+user	12m23.633s
+sys	0m28.510s
+ 
+/opt/android.tar - 296 prods - 296 cons - Buffer 131072 Bytes :
+
+real	0m6.827s
+user	5m25.722s
+sys	0m2.227s
+ 
+/opt/android.tar - 296 prods - 296 cons - Buffer 1048576 Bytes :
+
+real	0m4.280s
+user	3m4.407s
+sys	0m1.920s
+ 
+/opt/android.tar - 301 prods - 301 cons - Buffer 4096 Bytes :
+
+real	0m19.013s
+user	12m23.837s
+sys	0m29.681s
+ 
+/opt/android.tar - 301 prods - 301 cons - Buffer 131072 Bytes :
+
+real	0m6.795s
+user	5m25.119s
+sys	0m2.111s
+ 
+/opt/android.tar - 301 prods - 301 cons - Buffer 1048576 Bytes :
+
+real	0m4.267s
+user	3m4.310s
+sys	0m1.968s
+ 
+/opt/android.tar - 306 prods - 306 cons - Buffer 4096 Bytes :
+
+real	0m18.973s
+user	12m25.220s
+sys	0m28.205s
+ 
+/opt/android.tar - 306 prods - 306 cons - Buffer 131072 Bytes :
+
+real	0m6.801s
+user	5m25.465s
+sys	0m2.199s
+ 
+/opt/android.tar - 306 prods - 306 cons - Buffer 1048576 Bytes :
+
+real	0m4.294s
+user	3m4.249s
+sys	0m2.032s
+ 
+/opt/android.tar - 311 prods - 311 cons - Buffer 4096 Bytes :
+
+real	0m18.916s
+user	12m24.946s
+sys	0m28.477s
+ 
+/opt/android.tar - 311 prods - 311 cons - Buffer 131072 Bytes :
+
+real	0m6.824s
+user	5m26.495s
+sys	0m2.190s
+ 
+/opt/android.tar - 311 prods - 311 cons - Buffer 1048576 Bytes :
+
+real	0m4.286s
+user	3m4.453s
+sys	0m1.912s
+ 
+/opt/android.tar - 316 prods - 316 cons - Buffer 4096 Bytes :
+
+real	0m18.925s
+user	12m23.689s
+sys	0m29.533s
+ 
+/opt/android.tar - 316 prods - 316 cons - Buffer 131072 Bytes :
+
+real	0m6.844s
+user	5m25.742s
+sys	0m2.143s
+ 
+/opt/android.tar - 316 prods - 316 cons - Buffer 1048576 Bytes :
+
+real	0m4.333s
+user	3m4.563s
+sys	0m1.956s
+ 
+/opt/android.tar - 321 prods - 321 cons - Buffer 4096 Bytes :
+
+real	0m18.953s
+user	12m25.966s
+sys	0m28.765s
+ 
+/opt/android.tar - 321 prods - 321 cons - Buffer 131072 Bytes :
+
+real	0m6.830s
+user	5m25.330s
+sys	0m2.148s
+ 
+/opt/android.tar - 321 prods - 321 cons - Buffer 1048576 Bytes :
+
+real	0m4.305s
+user	3m4.575s
+sys	0m1.936s
+ 
+/opt/android.tar - 326 prods - 326 cons - Buffer 4096 Bytes :
+
+real	0m19.020s
+user	12m25.007s
+sys	0m29.686s
+ 
+/opt/android.tar - 326 prods - 326 cons - Buffer 131072 Bytes :
+
+real	0m6.854s
+user	5m25.667s
+sys	0m2.291s
+ 
+/opt/android.tar - 326 prods - 326 cons - Buffer 1048576 Bytes :
+
+real	0m4.315s
+user	3m4.324s
+sys	0m1.972s
+ 
+/opt/android.tar - 331 prods - 331 cons - Buffer 4096 Bytes :
+
+real	0m19.007s
+user	12m25.418s
+sys	0m28.998s
+ 
+/opt/android.tar - 331 prods - 331 cons - Buffer 131072 Bytes :
+
+real	0m6.876s
+user	5m26.313s
+sys	0m2.255s
+ 
+/opt/android.tar - 331 prods - 331 cons - Buffer 1048576 Bytes :
+
+real	0m4.296s
+user	3m4.270s
+sys	0m2.016s
+ 
+/opt/android.tar - 336 prods - 336 cons - Buffer 4096 Bytes :
+
+real	0m18.973s
+user	12m23.638s
+sys	0m29.621s
+ 
+/opt/android.tar - 336 prods - 336 cons - Buffer 131072 Bytes :
+
+real	0m6.809s
+user	5m24.864s
+sys	0m2.167s
+ 
+/opt/android.tar - 336 prods - 336 cons - Buffer 1048576 Bytes :
+
+real	0m4.350s
+user	3m4.322s
+sys	0m1.948s
+ 
+/opt/android.tar - 341 prods - 341 cons - Buffer 4096 Bytes :
+
+real	0m18.976s
+user	12m24.839s
+sys	0m29.217s
+ 
+/opt/android.tar - 341 prods - 341 cons - Buffer 131072 Bytes :
+
+real	0m6.837s
+user	5m25.187s
+sys	0m2.214s
+ 
+/opt/android.tar - 341 prods - 341 cons - Buffer 1048576 Bytes :
+
+real	0m4.325s
+user	3m4.281s
+sys	0m1.980s
+ 
+/opt/android.tar - 346 prods - 346 cons - Buffer 4096 Bytes :
+
+real	0m18.923s
+user	12m22.937s
+sys	0m29.338s
+ 
+/opt/android.tar - 346 prods - 346 cons - Buffer 131072 Bytes :
+
+real	0m6.856s
+user	5m25.143s
+sys	0m2.343s
+ 
+/opt/android.tar - 346 prods - 346 cons - Buffer 1048576 Bytes :
+
+real	0m4.321s
+user	3m4.554s
+sys	0m1.912s
+ 
+/opt/android.tar - 351 prods - 351 cons - Buffer 4096 Bytes :
+
+real	0m18.939s
+user	12m22.908s
+sys	0m29.776s
+ 
+/opt/android.tar - 351 prods - 351 cons - Buffer 131072 Bytes :
+
+real	0m6.828s
+user	5m25.907s
+sys	0m2.215s
+ 
+/opt/android.tar - 351 prods - 351 cons - Buffer 1048576 Bytes :
+
+real	0m4.338s
+user	3m4.340s
+sys	0m2.053s
+ 
+/opt/android.tar - 356 prods - 356 cons - Buffer 4096 Bytes :
+
+real	0m18.961s
+user	12m23.818s
+sys	0m29.136s
+ 
+/opt/android.tar - 356 prods - 356 cons - Buffer 131072 Bytes :
+
+real	0m6.820s
+user	5m25.150s
+sys	0m2.142s
+ 
+/opt/android.tar - 356 prods - 356 cons - Buffer 1048576 Bytes :
+
+real	0m4.365s
+user	3m4.329s
+sys	0m2.012s
+ 
+/opt/android.tar - 361 prods - 361 cons - Buffer 4096 Bytes :
+
+real	0m18.966s
+user	12m25.070s
+sys	0m28.635s
+ 
+/opt/android.tar - 361 prods - 361 cons - Buffer 131072 Bytes :
+
+real	0m6.818s
+user	5m25.468s
+sys	0m2.225s
+ 
+/opt/android.tar - 361 prods - 361 cons - Buffer 1048576 Bytes :
+
+real	0m4.364s
+user	3m4.214s
+sys	0m1.940s
+ 
+/opt/android.tar - 366 prods - 366 cons - Buffer 4096 Bytes :
+
+real	0m18.945s
+user	12m25.041s
+sys	0m28.750s
+ 
+/opt/android.tar - 366 prods - 366 cons - Buffer 131072 Bytes :
+
+real	0m6.818s
+user	5m25.847s
+sys	0m2.119s
+ 
+/opt/android.tar - 366 prods - 366 cons - Buffer 1048576 Bytes :
+
+real	0m4.349s
+user	3m4.491s
+sys	0m1.948s
+ 
+/opt/android.tar - 371 prods - 371 cons - Buffer 4096 Bytes :
+
+real	0m18.919s
+user	12m23.971s
+sys	0m29.567s
+ 
+/opt/android.tar - 371 prods - 371 cons - Buffer 131072 Bytes :
+
+real	0m6.812s
+user	5m25.995s
+sys	0m2.165s
+ 
+/opt/android.tar - 371 prods - 371 cons - Buffer 1048576 Bytes :
+
+real	0m4.372s
+user	3m4.404s
+sys	0m1.996s
+ 
+/opt/android.tar - 376 prods - 376 cons - Buffer 4096 Bytes :
+
+real	0m19.051s
+user	12m26.629s
+sys	0m29.035s
+ 
+/opt/android.tar - 376 prods - 376 cons - Buffer 131072 Bytes :
+
+real	0m6.825s
+user	5m25.738s
+sys	0m2.227s
+ 
+/opt/android.tar - 376 prods - 376 cons - Buffer 1048576 Bytes :
+
+real	0m4.353s
+user	3m4.425s
+sys	0m2.016s
+ 
+/opt/android.tar - 381 prods - 381 cons - Buffer 4096 Bytes :
+
+real	0m18.954s
+user	12m25.287s
+sys	0m28.863s
+ 
+/opt/android.tar - 381 prods - 381 cons - Buffer 131072 Bytes :
+
+real	0m6.803s
+user	5m25.861s
+sys	0m2.199s
+ 
+/opt/android.tar - 381 prods - 381 cons - Buffer 1048576 Bytes :
+
+real	0m4.393s
+user	3m4.413s
+sys	0m2.012s
+ 
+/opt/android.tar - 386 prods - 386 cons - Buffer 4096 Bytes :
+
+real	0m18.942s
+user	12m24.428s
+sys	0m29.334s
+ 
+/opt/android.tar - 386 prods - 386 cons - Buffer 131072 Bytes :
+
+real	0m6.833s
+user	5m25.587s
+sys	0m2.177s
+ 
+/opt/android.tar - 386 prods - 386 cons - Buffer 1048576 Bytes :
+
+real	0m4.389s
+user	3m4.446s
+sys	0m2.084s
+ 
+/opt/android.tar - 391 prods - 391 cons - Buffer 4096 Bytes :
+
+real	0m18.928s
+user	12m25.522s
+sys	0m29.740s
+ 
+/opt/android.tar - 391 prods - 391 cons - Buffer 131072 Bytes :
+
+real	0m6.822s
+user	5m25.925s
+sys	0m2.230s
+ 
+/opt/android.tar - 391 prods - 391 cons - Buffer 1048576 Bytes :
+
+real	0m4.360s
+user	3m4.381s
+sys	0m1.988s
+ 
+/opt/android.tar - 396 prods - 396 cons - Buffer 4096 Bytes :
+
+real	0m18.941s
+user	12m25.657s
+sys	0m28.220s
+ 
+/opt/android.tar - 396 prods - 396 cons - Buffer 131072 Bytes :
+
+real	0m6.785s
+user	5m25.957s
+sys	0m2.082s
+ 
+/opt/android.tar - 396 prods - 396 cons - Buffer 1048576 Bytes :
+
+real	0m4.379s
+user	3m4.502s
+sys	0m2.001s
+ 
+/opt/android.tar - 401 prods - 401 cons - Buffer 4096 Bytes :
+
+real	0m18.985s
+user	12m25.878s
+sys	0m28.927s
+ 
+/opt/android.tar - 401 prods - 401 cons - Buffer 131072 Bytes :
+
+real	0m6.870s
+user	5m25.658s
+sys	0m2.180s
+ 
+/opt/android.tar - 401 prods - 401 cons - Buffer 1048576 Bytes :
+
+real	0m4.391s
+user	3m4.487s
+sys	0m1.988s
+ 
+/opt/android.tar - 406 prods - 406 cons - Buffer 4096 Bytes :
+
+real	0m18.996s
+user	12m25.392s
+sys	0m29.707s
+ 
+/opt/android.tar - 406 prods - 406 cons - Buffer 131072 Bytes :
+
+real	0m6.816s
+user	5m25.853s
+sys	0m2.183s
+ 
+/opt/android.tar - 406 prods - 406 cons - Buffer 1048576 Bytes :
+
+real	0m4.424s
+user	3m4.516s
+sys	0m2.004s
+ 
+/opt/android.tar - 411 prods - 411 cons - Buffer 4096 Bytes :
+
+real	0m19.028s
+user	12m25.963s
+sys	0m29.162s
+ 
+/opt/android.tar - 411 prods - 411 cons - Buffer 131072 Bytes :
+
+real	0m6.822s
+user	5m25.662s
+sys	0m2.146s
+ 
+/opt/android.tar - 411 prods - 411 cons - Buffer 1048576 Bytes :
+
+real	0m4.394s
+user	3m4.396s
+sys	0m1.996s
+ 
+/opt/android.tar - 416 prods - 416 cons - Buffer 4096 Bytes :
+
+real	0m19.069s
+user	12m26.198s
+sys	0m29.480s
+ 
+/opt/android.tar - 416 prods - 416 cons - Buffer 131072 Bytes :
+
+real	0m6.866s
+user	5m26.382s
+sys	0m2.191s
+ 
+/opt/android.tar - 416 prods - 416 cons - Buffer 1048576 Bytes :
+
+real	0m4.416s
+user	3m4.318s
+sys	0m2.020s
+ 
+/opt/android.tar - 421 prods - 421 cons - Buffer 4096 Bytes :
+
+real	0m19.071s
+user	12m27.138s
+sys	0m29.079s
+ 
+/opt/android.tar - 421 prods - 421 cons - Buffer 131072 Bytes :
+
+real	0m6.841s
+user	5m25.856s
+sys	0m2.178s
+ 
+/opt/android.tar - 421 prods - 421 cons - Buffer 1048576 Bytes :
+
+real	0m4.389s
+user	3m4.266s
+sys	0m2.012s
+ 
+/opt/android.tar - 426 prods - 426 cons - Buffer 4096 Bytes :
+
+real	0m19.044s
+user	12m26.195s
+sys	0m29.238s
+ 
+/opt/android.tar - 426 prods - 426 cons - Buffer 131072 Bytes :
+
+real	0m6.828s
+user	5m25.039s
+sys	0m2.388s
+ 
+/opt/android.tar - 426 prods - 426 cons - Buffer 1048576 Bytes :
+
+real	0m4.413s
+user	3m4.228s
+sys	0m2.052s
+ 
+/opt/android.tar - 431 prods - 431 cons - Buffer 4096 Bytes :
+
+real	0m19.120s
+user	12m26.818s
+sys	0m29.413s
+ 
+/opt/android.tar - 431 prods - 431 cons - Buffer 131072 Bytes :
+
+real	0m6.844s
+user	5m26.403s
+sys	0m2.183s
+ 
+/opt/android.tar - 431 prods - 431 cons - Buffer 1048576 Bytes :
+
+real	0m4.423s
+user	3m4.152s
+sys	0m2.128s
+ 
+/opt/android.tar - 436 prods - 436 cons - Buffer 4096 Bytes :
+
+real	0m19.083s
+user	12m26.378s
+sys	0m29.671s
+ 
+/opt/android.tar - 436 prods - 436 cons - Buffer 131072 Bytes :
+
+real	0m6.854s
+user	5m25.323s
+sys	0m2.258s
+ 
+/opt/android.tar - 436 prods - 436 cons - Buffer 1048576 Bytes :
+
+real	0m4.426s
+user	3m4.342s
+sys	0m2.136s
+ 
+/opt/android.tar - 441 prods - 441 cons - Buffer 4096 Bytes :
+
+real	0m19.110s
+user	12m26.920s
+sys	0m29.357s
+ 
+/opt/android.tar - 441 prods - 441 cons - Buffer 131072 Bytes :
+
+real	0m6.885s
+user	5m26.340s
+sys	0m2.218s
+ 
+/opt/android.tar - 441 prods - 441 cons - Buffer 1048576 Bytes :
+
+real	0m4.404s
+user	3m4.321s
+sys	0m2.048s
+ 
+/opt/android.tar - 446 prods - 446 cons - Buffer 4096 Bytes :
+
+real	0m18.998s
+user	12m24.874s
+sys	0m29.097s
+ 
+/opt/android.tar - 446 prods - 446 cons - Buffer 131072 Bytes :
+
+real	0m6.910s
+user	5m26.278s
+sys	0m2.220s
+ 
+/opt/android.tar - 446 prods - 446 cons - Buffer 1048576 Bytes :
+
+real	0m4.449s
+user	3m4.508s
+sys	0m2.152s
+ 
+/opt/android.tar - 451 prods - 451 cons - Buffer 4096 Bytes :
+
+real	0m19.047s
+user	12m25.634s
+sys	0m29.485s
+ 
+/opt/android.tar - 451 prods - 451 cons - Buffer 131072 Bytes :
+
+real	0m6.852s
+user	5m25.742s
+sys	0m2.311s
+ 
+/opt/android.tar - 451 prods - 451 cons - Buffer 1048576 Bytes :
+
+real	0m4.454s
+user	3m4.254s
+sys	0m2.208s
+ 
+/opt/android.tar - 456 prods - 456 cons - Buffer 4096 Bytes :
+
+real	0m19.030s
+user	12m25.652s
+sys	0m29.743s
+ 
+/opt/android.tar - 456 prods - 456 cons - Buffer 131072 Bytes :
+
+real	0m6.842s
+user	5m26.031s
+sys	0m2.254s
+ 
+/opt/android.tar - 456 prods - 456 cons - Buffer 1048576 Bytes :
+
+real	0m4.450s
+user	3m4.364s
+sys	0m2.065s
+ 
+/opt/android.tar - 461 prods - 461 cons - Buffer 4096 Bytes :
+
+real	0m19.065s
+user	12m26.649s
+sys	0m29.461s
+ 
+/opt/android.tar - 461 prods - 461 cons - Buffer 131072 Bytes :
+
+real	0m6.899s
+user	5m26.432s
+sys	0m2.292s
+ 
+/opt/android.tar - 461 prods - 461 cons - Buffer 1048576 Bytes :
+
+real	0m4.434s
+user	3m4.241s
+sys	0m2.100s
+ 
+/opt/android.tar - 466 prods - 466 cons - Buffer 4096 Bytes :
+
+real	0m19.019s
+user	12m24.583s
+sys	0m30.107s
+ 
+/opt/android.tar - 466 prods - 466 cons - Buffer 131072 Bytes :
+
+real	0m6.835s
+user	5m25.568s
+sys	0m2.252s
+ 
+/opt/android.tar - 466 prods - 466 cons - Buffer 1048576 Bytes :
+
+real	0m4.445s
+user	3m4.127s
+sys	0m2.096s
+ 
+/opt/android.tar - 471 prods - 471 cons - Buffer 4096 Bytes :
+
+real	0m19.013s
+user	12m25.707s
+sys	0m29.360s
+ 
+/opt/android.tar - 471 prods - 471 cons - Buffer 131072 Bytes :
+
+real	0m6.866s
+user	5m26.048s
+sys	0m2.280s
+ 
+/opt/android.tar - 471 prods - 471 cons - Buffer 1048576 Bytes :
+
+real	0m4.466s
+user	3m4.296s
+sys	0m2.124s
+ 
+/opt/android.tar - 476 prods - 476 cons - Buffer 4096 Bytes :
+
+real	0m18.978s
+user	12m23.912s
+sys	0m29.966s
+ 
+/opt/android.tar - 476 prods - 476 cons - Buffer 131072 Bytes :
+
+real	0m6.941s
+user	5m26.328s
+sys	0m2.309s
+ 
+/opt/android.tar - 476 prods - 476 cons - Buffer 1048576 Bytes :
+
+real	0m4.466s
+user	3m4.196s
+sys	0m2.128s
+ 
+/opt/android.tar - 481 prods - 481 cons - Buffer 4096 Bytes :
+
+real	0m19.048s
+user	12m25.425s
+sys	0m29.939s
+ 
+/opt/android.tar - 481 prods - 481 cons - Buffer 131072 Bytes :
+
+real	0m6.910s
+user	5m26.551s
+sys	0m2.351s
+ 
+/opt/android.tar - 481 prods - 481 cons - Buffer 1048576 Bytes :
+
+real	0m4.470s
+user	3m4.140s
+sys	0m2.192s
+ 
+/opt/android.tar - 486 prods - 486 cons - Buffer 4096 Bytes :
+
+real	0m18.952s
+user	12m24.695s
+sys	0m29.116s
+ 
+/opt/android.tar - 486 prods - 486 cons - Buffer 131072 Bytes :
+
+real	0m6.970s
+user	5m27.200s
+sys	0m2.307s
+ 
+/opt/android.tar - 486 prods - 486 cons - Buffer 1048576 Bytes :
+
+real	0m4.449s
+user	3m4.425s
+sys	0m2.132s
+ 
+/opt/android.tar - 491 prods - 491 cons - Buffer 4096 Bytes :
+
+real	0m18.983s
+user	12m24.263s
+sys	0m29.758s
+ 
+/opt/android.tar - 491 prods - 491 cons - Buffer 131072 Bytes :
+
+real	0m6.908s
+user	5m26.244s
+sys	0m2.334s
+ 
+/opt/android.tar - 491 prods - 491 cons - Buffer 1048576 Bytes :
+
+real	0m4.478s
+user	3m4.349s
+sys	0m2.129s
+ 
+/opt/android.tar - 496 prods - 496 cons - Buffer 4096 Bytes :
+
+real	0m19.033s
+user	12m25.061s
+sys	0m29.675s
+ 
+/opt/android.tar - 496 prods - 496 cons - Buffer 131072 Bytes :
+
+real	0m6.895s
+user	5m26.567s
+sys	0m2.350s
+ 
+/opt/android.tar - 496 prods - 496 cons - Buffer 1048576 Bytes :
+
+real	0m4.507s
+user	3m4.270s
+sys	0m2.152s
+ 
+/opt/android.tar - 501 prods - 501 cons - Buffer 4096 Bytes :
+
+real	0m19.024s
+user	12m25.127s
+sys	0m29.782s
+ 
+/opt/android.tar - 501 prods - 501 cons - Buffer 131072 Bytes :
+
+real	0m6.972s
+user	5m26.773s
+sys	0m2.343s
+ 
+/opt/android.tar - 501 prods - 501 cons - Buffer 1048576 Bytes :
+
+real	0m4.500s
+user	3m4.338s
+sys	0m2.156s
+ 
+/opt/android.tar - 506 prods - 506 cons - Buffer 4096 Bytes :
+
+real	0m18.965s
+user	12m24.222s
+sys	0m29.771s
+ 
+/opt/android.tar - 506 prods - 506 cons - Buffer 131072 Bytes :
+
+real	0m6.867s
+user	5m25.974s
+sys	0m2.198s
+ 
+/opt/android.tar - 506 prods - 506 cons - Buffer 1048576 Bytes :
+
+real	0m4.482s
+user	3m4.533s
+sys	0m2.137s
+ 
+/opt/android.tar - 511 prods - 511 cons - Buffer 4096 Bytes :
+
+real	0m19.013s
+user	12m24.992s
+sys	0m29.385s
+ 
+/opt/android.tar - 511 prods - 511 cons - Buffer 131072 Bytes :
+
+real	0m6.886s
+user	5m25.712s
+sys	0m2.383s
+ 
+/opt/android.tar - 511 prods - 511 cons - Buffer 1048576 Bytes :
+
+real	0m4.497s
+user	3m4.613s
+sys	0m2.228s
+ 
+/opt/android.tar - 516 prods - 516 cons - Buffer 4096 Bytes :
+
+real	0m19.108s
+user	12m24.268s
+sys	0m26.506s
+ 
+/opt/android.tar - 516 prods - 516 cons - Buffer 131072 Bytes :
+
+real	0m6.953s
+user	5m26.725s
+sys	0m2.634s
+ 
+/opt/android.tar - 516 prods - 516 cons - Buffer 1048576 Bytes :
+
+real	0m4.480s
+user	3m4.420s
+sys	0m2.164s
+ 
+/opt/android.tar - 521 prods - 521 cons - Buffer 4096 Bytes :
+
+real	0m19.077s
+user	12m23.638s
+sys	0m25.792s
+ 
+/opt/android.tar - 521 prods - 521 cons - Buffer 131072 Bytes :
+
+real	0m6.884s
+user	5m25.686s
+sys	0m2.240s
+ 
+/opt/android.tar - 521 prods - 521 cons - Buffer 1048576 Bytes :
+
+real	0m4.298s
+user	2m52.797s
+sys	0m2.248s
+ 
+/opt/android.tar - 526 prods - 526 cons - Buffer 4096 Bytes :
+
+real	0m19.108s
+user	12m24.311s
+sys	0m26.157s
+ 
+/opt/android.tar - 526 prods - 526 cons - Buffer 131072 Bytes :
+
+real	0m6.927s
+user	5m26.756s
+sys	0m2.336s
+ 
+/opt/android.tar - 526 prods - 526 cons - Buffer 1048576 Bytes :
+
+real	0m4.354s
+user	2m53.837s
+sys	0m2.344s
+ 
+/opt/android.tar - 531 prods - 531 cons - Buffer 4096 Bytes :
+
+real	0m19.052s
+user	12m23.538s
+sys	0m26.523s
+ 
+/opt/android.tar - 531 prods - 531 cons - Buffer 131072 Bytes :
+
+real	0m6.939s
+user	5m26.172s
+sys	0m2.331s
+ 
+/opt/android.tar - 531 prods - 531 cons - Buffer 1048576 Bytes :
+
+real	0m4.352s
+user	2m55.477s
+sys	0m2.260s
+ 
+/opt/android.tar - 536 prods - 536 cons - Buffer 4096 Bytes :
+
+real	0m19.083s
+user	12m24.245s
+sys	0m25.656s
+ 
+/opt/android.tar - 536 prods - 536 cons - Buffer 131072 Bytes :
+
+real	0m6.895s
+user	5m26.370s
+sys	0m2.510s
+ 
+/opt/android.tar - 536 prods - 536 cons - Buffer 1048576 Bytes :
+
+real	0m4.363s
+user	2m55.399s
+sys	0m2.308s
+ 
+/opt/android.tar - 541 prods - 541 cons - Buffer 4096 Bytes :
+
+real	0m19.060s
+user	12m24.502s
+sys	0m26.169s
+ 
+/opt/android.tar - 541 prods - 541 cons - Buffer 131072 Bytes :
+
+real	0m6.929s
+user	5m26.322s
+sys	0m2.315s
+ 
+/opt/android.tar - 541 prods - 541 cons - Buffer 1048576 Bytes :
+
+real	0m4.360s
+user	2m55.259s
+sys	0m2.268s
+ 
+/opt/android.tar - 546 prods - 546 cons - Buffer 4096 Bytes :
+
+real	0m19.141s
+user	12m24.523s
+sys	0m25.467s
+ 
+/opt/android.tar - 546 prods - 546 cons - Buffer 131072 Bytes :
+
+real	0m6.979s
+user	5m26.077s
+sys	0m2.251s
+ 
+/opt/android.tar - 546 prods - 546 cons - Buffer 1048576 Bytes :
+
+real	0m4.380s
+user	2m55.830s
+sys	0m2.276s
+ 
+/opt/android.tar - 551 prods - 551 cons - Buffer 4096 Bytes :
+
+real	0m19.042s
+user	12m23.742s
+sys	0m26.994s
+ 
+/opt/android.tar - 551 prods - 551 cons - Buffer 131072 Bytes :
+
+real	0m6.964s
+user	5m26.029s
+sys	0m2.326s
+ 
+/opt/android.tar - 551 prods - 551 cons - Buffer 1048576 Bytes :
+
+real	0m4.373s
+user	2m55.446s
+sys	0m2.417s
+ 
+/opt/android.tar - 556 prods - 556 cons - Buffer 4096 Bytes :
+
+real	0m19.019s
+user	12m22.805s
+sys	0m26.150s
+ 
+/opt/android.tar - 556 prods - 556 cons - Buffer 131072 Bytes :
+
+real	0m6.944s
+user	5m25.815s
+sys	0m2.195s
+ 
+/opt/android.tar - 556 prods - 556 cons - Buffer 1048576 Bytes :
+
+real	0m4.376s
+user	2m56.199s
+sys	0m2.220s
+ 
+/opt/android.tar - 561 prods - 561 cons - Buffer 4096 Bytes :
+
+real	0m19.035s
+user	12m23.655s
+sys	0m26.699s
+ 
+/opt/android.tar - 561 prods - 561 cons - Buffer 131072 Bytes :
+
+real	0m7.008s
+user	5m26.305s
+sys	0m2.396s
+ 
+/opt/android.tar - 561 prods - 561 cons - Buffer 1048576 Bytes :
+
+real	0m4.393s
+user	2m56.188s
+sys	0m2.321s
+ 
+/opt/android.tar - 566 prods - 566 cons - Buffer 4096 Bytes :
+
+real	0m19.091s
+user	12m24.239s
+sys	0m25.807s
+ 
+/opt/android.tar - 566 prods - 566 cons - Buffer 131072 Bytes :
+
+real	0m7.044s
+user	5m26.841s
+sys	0m2.308s
+ 
+/opt/android.tar - 566 prods - 566 cons - Buffer 1048576 Bytes :
+
+real	0m4.386s
+user	2m55.679s
+sys	0m2.365s
+ 
+/opt/android.tar - 571 prods - 571 cons - Buffer 4096 Bytes :
+
+real	0m19.069s
+user	12m23.356s
+sys	0m26.778s
+ 
+/opt/android.tar - 571 prods - 571 cons - Buffer 131072 Bytes :
+
+real	0m7.007s
+user	5m26.245s
+sys	0m2.265s
+ 
+/opt/android.tar - 571 prods - 571 cons - Buffer 1048576 Bytes :
+
+real	0m4.430s
+user	2m56.355s
+sys	0m2.348s
+ 
+/opt/android.tar - 576 prods - 576 cons - Buffer 4096 Bytes :
+
+real	0m19.042s
+user	12m24.140s
+sys	0m26.269s
+ 
+/opt/android.tar - 576 prods - 576 cons - Buffer 131072 Bytes :
+
+real	0m7.001s
+user	5m26.402s
+sys	0m2.327s
+ 
+/opt/android.tar - 576 prods - 576 cons - Buffer 1048576 Bytes :
+
+real	0m4.421s
+user	2m56.658s
+sys	0m2.277s
+ 
+/opt/android.tar - 581 prods - 581 cons - Buffer 4096 Bytes :
+
+real	0m19.088s
+user	12m24.457s
+sys	0m26.341s
+ 
+/opt/android.tar - 581 prods - 581 cons - Buffer 131072 Bytes :
+
+real	0m6.998s
+user	5m25.742s
+sys	0m2.427s
+ 
+/opt/android.tar - 581 prods - 581 cons - Buffer 1048576 Bytes :
+
+real	0m4.404s
+user	2m56.593s
+sys	0m2.356s
+ 
+/opt/android.tar - 586 prods - 586 cons - Buffer 4096 Bytes :
+
+real	0m19.095s
+user	12m25.315s
+sys	0m26.149s
+ 
+/opt/android.tar - 586 prods - 586 cons - Buffer 131072 Bytes :
+
+real	0m6.977s
+user	5m25.597s
+sys	0m2.391s
+ 
+/opt/android.tar - 586 prods - 586 cons - Buffer 1048576 Bytes :
+
+real	0m4.411s
+user	2m56.406s
+sys	0m2.385s
+ 
+/opt/android.tar - 591 prods - 591 cons - Buffer 4096 Bytes :
+
+real	0m19.044s
+user	12m23.861s
+sys	0m26.457s
+ 
+/opt/android.tar - 591 prods - 591 cons - Buffer 131072 Bytes :
+
+real	0m6.991s
+user	5m25.867s
+sys	0m2.314s
+ 
+/opt/android.tar - 591 prods - 591 cons - Buffer 1048576 Bytes :
+
+real	0m4.433s
+user	2m56.155s
+sys	0m2.344s
+ 
+/opt/android.tar - 596 prods - 596 cons - Buffer 4096 Bytes :
+
+real	0m18.954s
+user	12m22.430s
+sys	0m26.387s
+ 
+/opt/android.tar - 596 prods - 596 cons - Buffer 131072 Bytes :
+
+real	0m7.018s
+user	5m26.320s
+sys	0m2.351s
+ 
+/opt/android.tar - 596 prods - 596 cons - Buffer 1048576 Bytes :
+
+real	0m4.444s
+user	2m56.394s
+sys	0m2.396s
+ 
+/opt/android.tar - 601 prods - 601 cons - Buffer 4096 Bytes :
+
+real	0m19.098s
+user	12m23.966s
+sys	0m27.048s
+ 
+/opt/android.tar - 601 prods - 601 cons - Buffer 131072 Bytes :
+
+real	0m6.999s
+user	5m26.352s
+sys	0m2.361s
+ 
+/opt/android.tar - 601 prods - 601 cons - Buffer 1048576 Bytes :
+
+real	0m4.478s
+user	2m56.377s
+sys	0m2.292s
+ 
+/opt/android.tar - 606 prods - 606 cons - Buffer 4096 Bytes :
+
+real	0m19.040s
+user	12m24.401s
+sys	0m26.303s
+ 
+/opt/android.tar - 606 prods - 606 cons - Buffer 131072 Bytes :
+
+real	0m7.007s
+user	5m25.481s
+sys	0m2.351s
+ 
+/opt/android.tar - 606 prods - 606 cons - Buffer 1048576 Bytes :
+
+real	0m4.462s
+user	2m56.481s
+sys	0m2.360s
+ 
+/opt/android.tar - 611 prods - 611 cons - Buffer 4096 Bytes :
+
+real	0m19.092s
+user	12m25.057s
+sys	0m25.158s
+ 
+/opt/android.tar - 611 prods - 611 cons - Buffer 131072 Bytes :
+
+real	0m7.032s
+user	5m25.930s
+sys	0m2.409s
+ 
+/opt/android.tar - 611 prods - 611 cons - Buffer 1048576 Bytes :
+
+real	0m4.464s
+user	2m56.384s
+sys	0m2.356s
+ 
+/opt/android.tar - 616 prods - 616 cons - Buffer 4096 Bytes :
+
+real	0m19.107s
+user	12m24.143s
+sys	0m27.062s
+ 
+/opt/android.tar - 616 prods - 616 cons - Buffer 131072 Bytes :
+
+real	0m7.008s
+user	5m25.767s
+sys	0m2.334s
+ 
+/opt/android.tar - 616 prods - 616 cons - Buffer 1048576 Bytes :
+
+real	0m4.459s
+user	2m56.421s
+sys	0m2.261s
+ 
+/opt/android.tar - 621 prods - 621 cons - Buffer 4096 Bytes :
+
+real	0m19.092s
+user	12m24.468s
+sys	0m26.577s
+ 
+/opt/android.tar - 621 prods - 621 cons - Buffer 131072 Bytes :
+
+real	0m6.984s
+user	5m25.733s
+sys	0m2.362s
+ 
+/opt/android.tar - 621 prods - 621 cons - Buffer 1048576 Bytes :
+
+real	0m4.479s
+user	2m56.375s
+sys	0m2.441s
+ 
+/opt/android.tar - 626 prods - 626 cons - Buffer 4096 Bytes :
+
+real	0m19.087s
+user	12m24.008s
+sys	0m26.601s
+ 
+/opt/android.tar - 626 prods - 626 cons - Buffer 131072 Bytes :
+
+real	0m7.007s
+user	5m26.143s
+sys	0m2.182s
+ 
+/opt/android.tar - 626 prods - 626 cons - Buffer 1048576 Bytes :
+
+real	0m4.439s
+user	2m56.256s
+sys	0m2.404s
+ 
+/opt/android.tar - 631 prods - 631 cons - Buffer 4096 Bytes :
+
+real	0m19.085s
+user	12m23.504s
+sys	0m26.683s
+ 
+/opt/android.tar - 631 prods - 631 cons - Buffer 131072 Bytes :
+
+real	0m6.983s
+user	5m24.925s
+sys	0m2.250s
+ 
+/opt/android.tar - 631 prods - 631 cons - Buffer 1048576 Bytes :
+
+real	0m4.478s
+user	2m56.520s
+sys	0m2.356s
+ 
+/opt/android.tar - 636 prods - 636 cons - Buffer 4096 Bytes :
+
+real	0m19.083s
+user	12m24.502s
+sys	0m26.341s
+ 
+/opt/android.tar - 636 prods - 636 cons - Buffer 131072 Bytes :
+
+real	0m6.949s
+user	5m25.271s
+sys	0m2.302s
+ 
+/opt/android.tar - 636 prods - 636 cons - Buffer 1048576 Bytes :
+
+real	0m4.458s
+user	2m56.371s
+sys	0m2.364s
+ 
+/opt/android.tar - 641 prods - 641 cons - Buffer 4096 Bytes :
+
+real	0m19.034s
+user	12m23.527s
+sys	0m26.611s
+ 
+/opt/android.tar - 641 prods - 641 cons - Buffer 131072 Bytes :
+
+real	0m6.949s
+user	5m25.236s
+sys	0m2.376s
+ 
+/opt/android.tar - 641 prods - 641 cons - Buffer 1048576 Bytes :
+
+real	0m4.445s
+user	2m56.276s
+sys	0m2.372s
+ 
+/opt/android.tar - 646 prods - 646 cons - Buffer 4096 Bytes :
+
+real	0m19.079s
+user	12m24.132s
+sys	0m26.244s
+ 
+/opt/android.tar - 646 prods - 646 cons - Buffer 131072 Bytes :
+
+real	0m7.019s
+user	5m26.001s
+sys	0m2.382s
+ 
+/opt/android.tar - 646 prods - 646 cons - Buffer 1048576 Bytes :
+
+real	0m4.517s
+user	2m56.154s
+sys	0m2.412s
+ 
+/opt/android.tar - 651 prods - 651 cons - Buffer 4096 Bytes :
+
+real	0m19.037s
+user	12m23.464s
+sys	0m26.811s
+ 
+/opt/android.tar - 651 prods - 651 cons - Buffer 131072 Bytes :
+
+real	0m6.981s
+user	5m25.199s
+sys	0m2.337s
+ 
+/opt/android.tar - 651 prods - 651 cons - Buffer 1048576 Bytes :
+
+real	0m4.484s
+user	2m56.524s
+sys	0m2.368s
+ 
+/opt/android.tar - 656 prods - 656 cons - Buffer 4096 Bytes :
+
+real	0m19.053s
+user	12m23.846s
+sys	0m26.082s
+ 
+/opt/android.tar - 656 prods - 656 cons - Buffer 131072 Bytes :
+
+real	0m6.958s
+user	5m24.565s
+sys	0m2.410s
+ 
+/opt/android.tar - 656 prods - 656 cons - Buffer 1048576 Bytes :
+
+real	0m4.501s
+user	2m56.013s
+sys	0m2.412s
+ 
+/opt/android.tar - 661 prods - 661 cons - Buffer 4096 Bytes :
+
+real	0m19.008s
+user	12m23.474s
+sys	0m26.858s
+ 
+/opt/android.tar - 661 prods - 661 cons - Buffer 131072 Bytes :
+
+real	0m6.989s
+user	5m25.217s
+sys	0m2.494s
+ 
+/opt/android.tar - 661 prods - 661 cons - Buffer 1048576 Bytes :
+
+real	0m4.500s
+user	2m56.463s
+sys	0m2.432s
+ 
+/opt/android.tar - 666 prods - 666 cons - Buffer 4096 Bytes :
+
+real	0m19.020s
+user	12m23.637s
+sys	0m26.575s
+ 
+/opt/android.tar - 666 prods - 666 cons - Buffer 131072 Bytes :
+
+real	0m7.017s
+user	5m25.436s
+sys	0m2.237s
+ 
+/opt/android.tar - 666 prods - 666 cons - Buffer 1048576 Bytes :
+
+real	0m4.520s
+user	2m55.662s
+sys	0m2.512s
+ 
+/opt/android.tar - 671 prods - 671 cons - Buffer 4096 Bytes :
+
+real	0m19.075s
+user	12m25.391s
+sys	0m25.703s
+ 
+/opt/android.tar - 671 prods - 671 cons - Buffer 131072 Bytes :
+
+real	0m6.973s
+user	5m24.740s
+sys	0m2.410s
+ 
+/opt/android.tar - 671 prods - 671 cons - Buffer 1048576 Bytes :
+
+real	0m4.498s
+user	2m55.671s
+sys	0m2.644s
+ 
+/opt/android.tar - 676 prods - 676 cons - Buffer 4096 Bytes :
+
+real	0m19.129s
+user	12m26.360s
+sys	0m26.350s
+ 
+/opt/android.tar - 676 prods - 676 cons - Buffer 131072 Bytes :
+
+real	0m6.976s
+user	5m24.700s
+sys	0m2.202s
+ 
+/opt/android.tar - 676 prods - 676 cons - Buffer 1048576 Bytes :
+
+real	0m4.524s
+user	2m55.860s
+sys	0m2.456s
+ 
+/opt/android.tar - 681 prods - 681 cons - Buffer 4096 Bytes :
+
+real	0m19.080s
+user	12m24.382s
+sys	0m25.654s
+ 
+/opt/android.tar - 681 prods - 681 cons - Buffer 131072 Bytes :
+
+real	0m7.005s
+user	5m25.007s
+sys	0m2.391s
+ 
+/opt/android.tar - 681 prods - 681 cons - Buffer 1048576 Bytes :
+
+real	0m4.563s
+user	2m55.903s
+sys	0m2.484s
+ 
+/opt/android.tar - 686 prods - 686 cons - Buffer 4096 Bytes :
+
+real	0m19.074s
+user	12m25.040s
+sys	0m26.782s
+ 
+/opt/android.tar - 686 prods - 686 cons - Buffer 131072 Bytes :
+
+real	0m6.970s
+user	5m24.504s
+sys	0m2.383s
+ 
+/opt/android.tar - 686 prods - 686 cons - Buffer 1048576 Bytes :
+
+real	0m4.535s
+user	2m56.119s
+sys	0m2.445s
+ 
+/opt/android.tar - 691 prods - 691 cons - Buffer 4096 Bytes :
+
+real	0m19.051s
+user	12m24.353s
+sys	0m26.285s
+ 
+/opt/android.tar - 691 prods - 691 cons - Buffer 131072 Bytes :
+
+real	0m6.995s
+user	5m24.261s
+sys	0m2.402s
+ 
+/opt/android.tar - 691 prods - 691 cons - Buffer 1048576 Bytes :
+
+real	0m4.553s
+user	2m55.954s
+sys	0m2.469s
+ 
+/opt/android.tar - 696 prods - 696 cons - Buffer 4096 Bytes :
+
+real	0m19.045s
+user	12m24.301s
+sys	0m26.406s
+ 
+/opt/android.tar - 696 prods - 696 cons - Buffer 131072 Bytes :
+
+real	0m7.024s
+user	5m24.636s
+sys	0m2.471s
+ 
+/opt/android.tar - 696 prods - 696 cons - Buffer 1048576 Bytes :
+
+real	0m4.622s
+user	2m57.831s
+sys	0m2.460s
+ 
+/opt/android.tar - 671 prods - 671 cons - Buffer 4096 Bytes :
+
+real	0m19.028s
+user	12m24.474s
+sys	0m25.638s
+ 
+/opt/android.tar - 671 prods - 671 cons - Buffer 131072 Bytes :
+
+real	0m6.963s
+user	5m24.634s
+sys	0m2.386s
+ 
+/opt/android.tar - 671 prods - 671 cons - Buffer 1048576 Bytes :
+
+real	0m4.528s
+user	2m56.134s
+sys	0m2.412s
+ 
+/opt/android.tar - 676 prods - 676 cons - Buffer 4096 Bytes :
+
+real	0m19.057s
+user	12m25.128s
+sys	0m26.475s
+ 
+/opt/android.tar - 676 prods - 676 cons - Buffer 131072 Bytes :
+
+real	0m7.009s
+user	5m25.320s
+sys	0m2.313s
+ 
+/opt/android.tar - 676 prods - 676 cons - Buffer 1048576 Bytes :
+
+real	0m4.512s
+user	2m55.569s
+sys	0m2.489s
+ 
+/opt/android.tar - 681 prods - 681 cons - Buffer 4096 Bytes :
+
+real	0m19.093s
+user	12m25.479s
+sys	0m26.758s
+ 
+/opt/android.tar - 681 prods - 681 cons - Buffer 131072 Bytes :
+
+real	0m7.048s
+user	5m26.000s
+sys	0m2.327s
+ 
+/opt/android.tar - 681 prods - 681 cons - Buffer 1048576 Bytes :
+
+real	0m4.550s
+user	2m55.948s
+sys	0m2.484s
+ 
+/opt/android.tar - 686 prods - 686 cons - Buffer 4096 Bytes :
+
+real	0m19.068s
+user	12m24.256s
+sys	0m26.745s
+ 
+/opt/android.tar - 686 prods - 686 cons - Buffer 131072 Bytes :
+
+real	0m7.030s
+user	5m25.682s
+sys	0m2.494s
+ 
+/opt/android.tar - 686 prods - 686 cons - Buffer 1048576 Bytes :
+
+real	0m4.656s
+user	3m1.413s
+sys	0m2.484s
+ 
+/opt/android.tar - 691 prods - 691 cons - Buffer 4096 Bytes :
+
+real	0m19.119s
+user	12m24.622s
+sys	0m27.164s
+ 
+/opt/android.tar - 691 prods - 691 cons - Buffer 131072 Bytes :
+
+real	0m6.987s
+user	5m24.662s
+sys	0m2.337s
+ 
+/opt/android.tar - 691 prods - 691 cons - Buffer 1048576 Bytes :
+
+real	0m4.551s
+user	2m55.869s
+sys	0m2.532s
+ 
+/opt/android.tar - 696 prods - 696 cons - Buffer 4096 Bytes :
+
+real	0m19.101s
+user	12m24.435s
+sys	0m27.212s
+ 
+/opt/android.tar - 696 prods - 696 cons - Buffer 131072 Bytes :

@@ -1,0 +1,1476 @@
+/opt/android.tar - 1 prods - 1 cons - Buffer 16384 Bytes :
+
+real	0m7.304s
+user	0m6.016s
+sys	0m3.095s
+ 
+/opt/android.tar - 1 prods - 1 cons - Buffer 32768 Bytes :
+
+real	0m7.305s
+user	0m6.108s
+sys	0m3.007s
+ 
+/opt/android.tar - 1 prods - 1 cons - Buffer 65536 Bytes :
+
+real	0m7.325s
+user	0m6.199s
+sys	0m2.950s
+ 
+/opt/android.tar - 6 prods - 6 cons - Buffer 16384 Bytes :
+
+real	0m18.470s
+user	0m18.433s
+sys	0m13.174s
+ 
+/opt/android.tar - 6 prods - 6 cons - Buffer 32768 Bytes :
+
+real	0m19.179s
+user	0m18.408s
+sys	0m13.664s
+ 
+/opt/android.tar - 6 prods - 6 cons - Buffer 65536 Bytes :
+
+real	0m19.164s
+user	0m17.978s
+sys	0m14.185s
+ 
+/opt/android.tar - 11 prods - 11 cons - Buffer 16384 Bytes :
+
+real	0m20.168s
+user	0m19.284s
+sys	0m15.904s
+ 
+/opt/android.tar - 11 prods - 11 cons - Buffer 32768 Bytes :
+
+real	0m20.201s
+user	0m19.011s
+sys	0m16.214s
+ 
+/opt/android.tar - 11 prods - 11 cons - Buffer 65536 Bytes :
+
+real	0m20.202s
+user	0m19.255s
+sys	0m16.017s
+ 
+/opt/android.tar - 16 prods - 16 cons - Buffer 16384 Bytes :
+
+real	0m19.840s
+user	0m18.984s
+sys	0m16.458s
+ 
+/opt/android.tar - 16 prods - 16 cons - Buffer 32768 Bytes :
+
+real	0m19.872s
+user	0m19.114s
+sys	0m16.456s
+ 
+/opt/android.tar - 16 prods - 16 cons - Buffer 65536 Bytes :
+
+real	0m19.804s
+user	0m19.014s
+sys	0m16.429s
+ 
+/opt/android.tar - 21 prods - 21 cons - Buffer 16384 Bytes :
+
+real	0m19.731s
+user	0m19.065s
+sys	0m16.781s
+ 
+/opt/android.tar - 21 prods - 21 cons - Buffer 32768 Bytes :
+
+real	0m19.750s
+user	0m19.156s
+sys	0m16.754s
+ 
+/opt/android.tar - 21 prods - 21 cons - Buffer 65536 Bytes :
+
+real	0m19.665s
+user	0m19.164s
+sys	0m16.488s
+ 
+/opt/android.tar - 26 prods - 26 cons - Buffer 16384 Bytes :
+
+real	0m19.622s
+user	0m19.332s
+sys	0m16.614s
+ 
+/opt/android.tar - 26 prods - 26 cons - Buffer 32768 Bytes :
+
+real	0m19.698s
+user	0m19.185s
+sys	0m17.006s
+ 
+/opt/android.tar - 26 prods - 26 cons - Buffer 65536 Bytes :
+
+real	0m19.666s
+user	0m19.441s
+sys	0m16.580s
+ 
+/opt/android.tar - 31 prods - 31 cons - Buffer 16384 Bytes :
+
+real	0m19.472s
+user	0m18.774s
+sys	0m17.047s
+ 
+/opt/android.tar - 31 prods - 31 cons - Buffer 32768 Bytes :
+
+real	0m19.233s
+user	0m18.968s
+sys	0m16.611s
+ 
+/opt/android.tar - 31 prods - 31 cons - Buffer 65536 Bytes :
+
+real	0m19.631s
+user	0m19.481s
+sys	0m16.697s
+ 
+/opt/android.tar - 36 prods - 36 cons - Buffer 16384 Bytes :
+
+real	0m19.489s
+user	0m19.334s
+sys	0m16.676s
+ 
+/opt/android.tar - 36 prods - 36 cons - Buffer 32768 Bytes :
+
+real	0m19.213s
+user	0m18.954s
+sys	0m16.726s
+ 
+/opt/android.tar - 36 prods - 36 cons - Buffer 65536 Bytes :
+
+real	0m19.569s
+user	0m19.212s
+sys	0m17.038s
+ 
+/opt/android.tar - 41 prods - 41 cons - Buffer 16384 Bytes :
+
+real	0m19.429s
+user	0m19.414s
+sys	0m16.655s
+ 
+/opt/android.tar - 41 prods - 41 cons - Buffer 32768 Bytes :
+
+real	0m19.091s
+user	0m18.612s
+sys	0m16.901s
+ 
+/opt/android.tar - 41 prods - 41 cons - Buffer 65536 Bytes :
+
+real	0m19.531s
+user	0m19.182s
+sys	0m17.099s
+ 
+/opt/android.tar - 46 prods - 46 cons - Buffer 16384 Bytes :
+
+real	0m19.171s
+user	0m19.070s
+sys	0m16.871s
+ 
+/opt/android.tar - 46 prods - 46 cons - Buffer 32768 Bytes :
+
+real	0m19.520s
+user	0m19.149s
+sys	0m17.296s
+ 
+/opt/android.tar - 46 prods - 46 cons - Buffer 65536 Bytes :
+
+real	0m19.492s
+user	0m19.521s
+sys	0m16.881s
+ 
+/opt/android.tar - 51 prods - 51 cons - Buffer 16384 Bytes :
+
+real	0m19.388s
+user	0m19.118s
+sys	0m17.162s
+ 
+/opt/android.tar - 51 prods - 51 cons - Buffer 32768 Bytes :
+
+real	0m19.078s
+user	0m19.230s
+sys	0m16.677s
+ 
+/opt/android.tar - 51 prods - 51 cons - Buffer 65536 Bytes :
+
+real	0m19.476s
+user	0m19.192s
+sys	0m17.360s
+ 
+/opt/android.tar - 56 prods - 56 cons - Buffer 16384 Bytes :
+
+real	0m19.052s
+user	0m19.142s
+sys	0m16.704s
+ 
+/opt/android.tar - 56 prods - 56 cons - Buffer 32768 Bytes :
+
+real	0m19.468s
+user	0m19.331s
+sys	0m17.178s
+ 
+/opt/android.tar - 56 prods - 56 cons - Buffer 65536 Bytes :
+
+real	0m19.402s
+user	0m19.288s
+sys	0m17.195s
+ 
+/opt/android.tar - 61 prods - 61 cons - Buffer 16384 Bytes :
+
+real	0m19.431s
+user	0m19.198s
+sys	0m17.446s
+ 
+/opt/android.tar - 61 prods - 61 cons - Buffer 32768 Bytes :
+
+real	0m19.361s
+user	0m19.588s
+sys	0m16.852s
+ 
+/opt/android.tar - 61 prods - 61 cons - Buffer 65536 Bytes :
+
+real	0m19.344s
+user	0m19.484s
+sys	0m16.942s
+ 
+/opt/android.tar - 66 prods - 66 cons - Buffer 16384 Bytes :
+
+real	0m19.421s
+user	0m19.175s
+sys	0m17.551s
+ 
+/opt/android.tar - 66 prods - 66 cons - Buffer 32768 Bytes :
+
+real	0m19.305s
+user	0m19.562s
+sys	0m16.779s
+ 
+/opt/android.tar - 66 prods - 66 cons - Buffer 65536 Bytes :
+
+real	0m19.415s
+user	0m19.542s
+sys	0m17.125s
+ 
+/opt/android.tar - 71 prods - 71 cons - Buffer 16384 Bytes :
+
+real	0m19.404s
+user	0m19.312s
+sys	0m17.431s
+ 
+/opt/android.tar - 71 prods - 71 cons - Buffer 32768 Bytes :
+
+real	0m19.382s
+user	0m19.375s
+sys	0m17.316s
+ 
+/opt/android.tar - 71 prods - 71 cons - Buffer 65536 Bytes :
+
+real	0m19.391s
+user	0m19.150s
+sys	0m17.639s
+ 
+/opt/android.tar - 76 prods - 76 cons - Buffer 16384 Bytes :
+
+real	0m19.367s
+user	0m19.517s
+sys	0m17.217s
+ 
+/opt/android.tar - 76 prods - 76 cons - Buffer 32768 Bytes :
+
+real	0m19.350s
+user	0m19.521s
+sys	0m17.174s
+ 
+/opt/android.tar - 76 prods - 76 cons - Buffer 65536 Bytes :
+
+real	0m19.351s
+user	0m19.340s
+sys	0m17.305s
+ 
+/opt/android.tar - 81 prods - 81 cons - Buffer 16384 Bytes :
+
+real	0m19.281s
+user	0m19.146s
+sys	0m17.455s
+ 
+/opt/android.tar - 81 prods - 81 cons - Buffer 32768 Bytes :
+
+real	0m18.949s
+user	0m19.301s
+sys	0m16.783s
+ 
+/opt/android.tar - 81 prods - 81 cons - Buffer 65536 Bytes :
+
+real	0m19.375s
+user	0m19.648s
+sys	0m17.215s
+ 
+/opt/android.tar - 86 prods - 86 cons - Buffer 16384 Bytes :
+
+real	0m19.341s
+user	0m19.615s
+sys	0m17.219s
+ 
+/opt/android.tar - 86 prods - 86 cons - Buffer 32768 Bytes :
+
+real	0m19.368s
+user	0m19.490s
+sys	0m17.426s
+ 
+/opt/android.tar - 86 prods - 86 cons - Buffer 65536 Bytes :
+
+real	0m19.271s
+user	0m19.187s
+sys	0m17.518s
+ 
+/opt/android.tar - 91 prods - 91 cons - Buffer 16384 Bytes :
+
+real	0m19.342s
+user	0m19.035s
+sys	0m17.912s
+ 
+/opt/android.tar - 91 prods - 91 cons - Buffer 32768 Bytes :
+
+real	0m19.372s
+user	0m19.538s
+sys	0m17.448s
+ 
+/opt/android.tar - 91 prods - 91 cons - Buffer 65536 Bytes :
+
+real	0m19.258s
+user	0m19.424s
+sys	0m17.282s
+ 
+/opt/android.tar - 96 prods - 96 cons - Buffer 16384 Bytes :
+
+real	0m19.350s
+user	0m19.484s
+sys	0m17.513s
+ 
+/opt/android.tar - 96 prods - 96 cons - Buffer 32768 Bytes :
+
+real	0m19.275s
+user	0m19.362s
+sys	0m17.489s
+ 
+/opt/android.tar - 96 prods - 96 cons - Buffer 65536 Bytes :
+
+real	0m19.278s
+user	0m19.164s
+sys	0m17.674s
+ 
+/opt/android.tar - 101 prods - 101 cons - Buffer 16384 Bytes :
+
+real	0m19.292s
+user	0m19.337s
+sys	0m17.641s
+ 
+/opt/android.tar - 101 prods - 101 cons - Buffer 32768 Bytes :
+
+real	0m19.273s
+user	0m19.405s
+sys	0m17.488s
+ 
+/opt/android.tar - 101 prods - 101 cons - Buffer 65536 Bytes :
+
+real	0m19.307s
+user	0m19.500s
+sys	0m17.503s
+ 
+/opt/android.tar - 106 prods - 106 cons - Buffer 16384 Bytes :
+
+real	0m19.319s
+user	0m19.591s
+sys	0m17.488s
+ 
+/opt/android.tar - 106 prods - 106 cons - Buffer 32768 Bytes :
+
+real	0m19.226s
+user	0m19.474s
+sys	0m17.317s
+ 
+/opt/android.tar - 106 prods - 106 cons - Buffer 65536 Bytes :
+
+real	0m19.307s
+user	0m19.719s
+sys	0m17.331s
+ 
+/opt/android.tar - 111 prods - 111 cons - Buffer 16384 Bytes :
+
+real	0m19.272s
+user	0m18.846s
+sys	0m18.225s
+ 
+/opt/android.tar - 111 prods - 111 cons - Buffer 32768 Bytes :
+
+real	0m19.315s
+user	0m19.643s
+sys	0m17.448s
+ 
+/opt/android.tar - 111 prods - 111 cons - Buffer 65536 Bytes :
+
+real	0m19.254s
+user	0m19.334s
+sys	0m17.704s
+ 
+/opt/android.tar - 116 prods - 116 cons - Buffer 16384 Bytes :
+
+real	0m17.944s
+user	0m18.006s
+sys	0m16.638s
+ 
+/opt/android.tar - 116 prods - 116 cons - Buffer 32768 Bytes :
+
+real	0m18.030s
+user	0m17.985s
+sys	0m17.041s
+ 
+/opt/android.tar - 116 prods - 116 cons - Buffer 65536 Bytes :
+
+real	0m17.999s
+user	0m18.007s
+sys	0m16.115s
+ 
+/opt/android.tar - 121 prods - 121 cons - Buffer 16384 Bytes :
+
+real	0m19.281s
+user	0m19.217s
+sys	0m17.954s
+ 
+/opt/android.tar - 121 prods - 121 cons - Buffer 32768 Bytes :
+
+real	0m19.124s
+user	0m19.468s
+sys	0m17.301s
+ 
+/opt/android.tar - 121 prods - 121 cons - Buffer 65536 Bytes :
+
+real	0m19.273s
+user	0m19.177s
+sys	0m17.972s
+ 
+/opt/android.tar - 126 prods - 126 cons - Buffer 16384 Bytes :
+
+real	0m19.251s
+user	0m19.086s
+sys	0m18.147s
+ 
+/opt/android.tar - 126 prods - 126 cons - Buffer 32768 Bytes :
+
+real	0m19.179s
+user	0m19.173s
+sys	0m17.786s
+ 
+/opt/android.tar - 126 prods - 126 cons - Buffer 65536 Bytes :
+
+real	0m19.245s
+user	0m19.379s
+sys	0m17.746s
+ 
+/opt/android.tar - 131 prods - 131 cons - Buffer 16384 Bytes :
+
+real	0m19.271s
+user	0m19.446s
+sys	0m17.893s
+ 
+/opt/android.tar - 131 prods - 131 cons - Buffer 32768 Bytes :
+
+real	0m19.280s
+user	0m19.159s
+sys	0m18.113s
+ 
+/opt/android.tar - 131 prods - 131 cons - Buffer 65536 Bytes :
+
+real	0m19.288s
+user	0m19.135s
+sys	0m18.080s
+ 
+/opt/android.tar - 136 prods - 136 cons - Buffer 16384 Bytes :
+
+real	0m19.156s
+user	0m19.285s
+sys	0m17.766s
+ 
+/opt/android.tar - 136 prods - 136 cons - Buffer 32768 Bytes :
+
+real	0m19.269s
+user	0m19.691s
+sys	0m17.592s
+ 
+/opt/android.tar - 136 prods - 136 cons - Buffer 65536 Bytes :
+
+real	0m19.316s
+user	0m19.446s
+sys	0m17.859s
+ 
+/opt/android.tar - 141 prods - 141 cons - Buffer 16384 Bytes :
+
+real	0m19.230s
+user	0m19.780s
+sys	0m17.517s
+ 
+/opt/android.tar - 141 prods - 141 cons - Buffer 32768 Bytes :
+
+real	0m19.241s
+user	0m19.202s
+sys	0m18.043s
+ 
+/opt/android.tar - 141 prods - 141 cons - Buffer 65536 Bytes :
+
+real	0m19.277s
+user	0m19.373s
+sys	0m17.993s
+ 
+/opt/android.tar - 146 prods - 146 cons - Buffer 16384 Bytes :
+
+real	0m19.273s
+user	0m19.416s
+sys	0m18.013s
+ 
+/opt/android.tar - 146 prods - 146 cons - Buffer 32768 Bytes :
+
+real	0m19.261s
+user	0m19.452s
+sys	0m17.864s
+ 
+/opt/android.tar - 146 prods - 146 cons - Buffer 65536 Bytes :
+
+real	0m19.289s
+user	0m19.066s
+sys	0m18.385s
+ 
+/opt/android.tar - 151 prods - 151 cons - Buffer 16384 Bytes :
+
+real	0m19.259s
+user	0m19.228s
+sys	0m18.169s
+ 
+/opt/android.tar - 151 prods - 151 cons - Buffer 32768 Bytes :
+
+real	0m19.263s
+user	0m19.530s
+sys	0m17.898s
+ 
+/opt/android.tar - 151 prods - 151 cons - Buffer 65536 Bytes :
+
+real	0m19.294s
+user	0m19.379s
+sys	0m18.106s
+ 
+/opt/android.tar - 156 prods - 156 cons - Buffer 16384 Bytes :
+
+real	0m19.293s
+user	0m19.534s
+sys	0m17.958s
+ 
+/opt/android.tar - 156 prods - 156 cons - Buffer 32768 Bytes :
+
+real	0m19.241s
+user	0m19.247s
+sys	0m18.175s
+ 
+/opt/android.tar - 156 prods - 156 cons - Buffer 65536 Bytes :
+
+real	0m19.258s
+user	0m19.227s
+sys	0m18.236s
+ 
+/opt/android.tar - 161 prods - 161 cons - Buffer 16384 Bytes :
+
+real	0m19.303s
+user	0m19.674s
+sys	0m17.899s
+ 
+/opt/android.tar - 161 prods - 161 cons - Buffer 32768 Bytes :
+
+real	0m19.216s
+user	0m19.363s
+sys	0m18.036s
+ 
+/opt/android.tar - 161 prods - 161 cons - Buffer 65536 Bytes :
+
+real	0m19.315s
+user	0m19.624s
+sys	0m17.931s
+ 
+/opt/android.tar - 166 prods - 166 cons - Buffer 16384 Bytes :
+
+real	0m19.209s
+user	0m19.552s
+sys	0m17.833s
+ 
+/opt/android.tar - 166 prods - 166 cons - Buffer 32768 Bytes :
+
+real	0m19.203s
+user	0m19.645s
+sys	0m17.819s
+ 
+/opt/android.tar - 166 prods - 166 cons - Buffer 65536 Bytes :
+
+real	0m19.282s
+user	0m19.174s
+sys	0m18.483s
+ 
+/opt/android.tar - 171 prods - 171 cons - Buffer 16384 Bytes :
+
+real	0m19.234s
+user	0m19.665s
+sys	0m17.769s
+ 
+/opt/android.tar - 171 prods - 171 cons - Buffer 32768 Bytes :
+
+real	0m19.229s
+user	0m19.474s
+sys	0m17.988s
+ 
+/opt/android.tar - 171 prods - 171 cons - Buffer 65536 Bytes :
+
+real	0m19.218s
+user	0m19.603s
+sys	0m17.873s
+ 
+/opt/android.tar - 176 prods - 176 cons - Buffer 16384 Bytes :
+
+real	0m19.217s
+user	0m19.358s
+sys	0m18.178s
+ 
+/opt/android.tar - 176 prods - 176 cons - Buffer 32768 Bytes :
+
+real	0m19.269s
+user	0m19.442s
+sys	0m18.176s
+ 
+/opt/android.tar - 176 prods - 176 cons - Buffer 65536 Bytes :
+
+real	0m18.181s
+user	0m18.548s
+sys	0m16.975s
+ 
+/opt/android.tar - 181 prods - 181 cons - Buffer 16384 Bytes :
+
+real	0m19.168s
+user	0m19.176s
+sys	0m18.227s
+ 
+/opt/android.tar - 181 prods - 181 cons - Buffer 32768 Bytes :
+
+real	0m19.267s
+user	0m19.508s
+sys	0m18.084s
+ 
+/opt/android.tar - 181 prods - 181 cons - Buffer 65536 Bytes :
+
+real	0m19.269s
+user	0m19.452s
+sys	0m18.184s
+ 
+/opt/android.tar - 186 prods - 186 cons - Buffer 16384 Bytes :
+
+real	0m19.068s
+user	0m19.089s
+sys	0m18.100s
+ 
+/opt/android.tar - 186 prods - 186 cons - Buffer 32768 Bytes :
+
+real	0m19.297s
+user	0m19.311s
+sys	0m18.467s
+ 
+/opt/android.tar - 186 prods - 186 cons - Buffer 65536 Bytes :
+
+real	0m19.219s
+user	0m19.335s
+sys	0m18.303s
+ 
+/opt/android.tar - 191 prods - 191 cons - Buffer 16384 Bytes :
+
+real	0m19.183s
+user	0m19.455s
+sys	0m18.074s
+ 
+/opt/android.tar - 191 prods - 191 cons - Buffer 32768 Bytes :
+
+real	0m19.262s
+user	0m19.812s
+sys	0m18.005s
+ 
+/opt/android.tar - 191 prods - 191 cons - Buffer 65536 Bytes :
+
+real	0m19.231s
+user	0m19.615s
+sys	0m18.045s
+ 
+/opt/android.tar - 196 prods - 196 cons - Buffer 16384 Bytes :
+
+real	0m19.222s
+user	0m19.347s
+sys	0m18.317s
+ 
+/opt/android.tar - 196 prods - 196 cons - Buffer 32768 Bytes :
+
+real	0m19.252s
+user	0m19.619s
+sys	0m18.151s
+ 
+/opt/android.tar - 196 prods - 196 cons - Buffer 65536 Bytes :
+
+real	0m19.252s
+user	0m19.485s
+sys	0m18.231s
+ 
+/opt/android.tar - 201 prods - 201 cons - Buffer 16384 Bytes :
+
+real	0m19.283s
+user	0m19.563s
+sys	0m18.304s
+ 
+/opt/android.tar - 201 prods - 201 cons - Buffer 32768 Bytes :
+
+real	0m19.224s
+user	0m19.188s
+sys	0m18.560s
+ 
+/opt/android.tar - 201 prods - 201 cons - Buffer 65536 Bytes :
+
+real	0m18.092s
+user	0m18.530s
+sys	0m16.678s
+ 
+/opt/FreeBSD9-orig.tar - 1 prods - 1 cons - Buffer 16384 Bytes :
+
+real	0m1.951s
+user	0m1.786s
+sys	0m0.470s
+ 
+/opt/FreeBSD9-orig.tar - 1 prods - 1 cons - Buffer 32768 Bytes :
+
+real	0m1.942s
+user	0m1.792s
+sys	0m0.452s
+ 
+/opt/FreeBSD9-orig.tar - 1 prods - 1 cons - Buffer 65536 Bytes :
+
+real	0m1.952s
+user	0m1.873s
+sys	0m0.383s
+ 
+/opt/FreeBSD9-orig.tar - 6 prods - 6 cons - Buffer 16384 Bytes :
+
+real	0m4.814s
+user	0m5.393s
+sys	0m2.479s
+ 
+/opt/FreeBSD9-orig.tar - 6 prods - 6 cons - Buffer 32768 Bytes :
+
+real	0m4.844s
+user	0m5.434s
+sys	0m2.499s
+ 
+/opt/FreeBSD9-orig.tar - 6 prods - 6 cons - Buffer 65536 Bytes :
+
+real	0m5.133s
+user	0m5.221s
+sys	0m2.816s
+ 
+/opt/FreeBSD9-orig.tar - 11 prods - 11 cons - Buffer 16384 Bytes :
+
+real	0m4.661s
+user	0m5.229s
+sys	0m2.389s
+ 
+/opt/FreeBSD9-orig.tar - 11 prods - 11 cons - Buffer 32768 Bytes :
+
+real	0m5.689s
+user	0m5.514s
+sys	0m3.090s
+ 
+/opt/FreeBSD9-orig.tar - 11 prods - 11 cons - Buffer 65536 Bytes :
+
+real	0m4.754s
+user	0m5.139s
+sys	0m2.637s
+ 
+/opt/FreeBSD9-orig.tar - 16 prods - 16 cons - Buffer 16384 Bytes :
+
+real	0m4.646s
+user	0m5.268s
+sys	0m2.351s
+ 
+/opt/FreeBSD9-orig.tar - 16 prods - 16 cons - Buffer 32768 Bytes :
+
+real	0m5.320s
+user	0m5.332s
+sys	0m2.897s
+ 
+/opt/FreeBSD9-orig.tar - 16 prods - 16 cons - Buffer 65536 Bytes :
+
+real	0m5.548s
+user	0m5.495s
+sys	0m2.976s
+ 
+/opt/FreeBSD9-orig.tar - 21 prods - 21 cons - Buffer 16384 Bytes :
+
+real	0m5.371s
+user	0m5.353s
+sys	0m2.882s
+ 
+/opt/FreeBSD9-orig.tar - 21 prods - 21 cons - Buffer 32768 Bytes :
+
+real	0m4.602s
+user	0m4.983s
+sys	0m2.564s
+ 
+/opt/FreeBSD9-orig.tar - 21 prods - 21 cons - Buffer 65536 Bytes :
+
+real	0m4.715s
+user	0m5.296s
+sys	0m2.412s
+ 
+/opt/FreeBSD9-orig.tar - 26 prods - 26 cons - Buffer 16384 Bytes :
+
+real	0m5.460s
+user	0m5.348s
+sys	0m3.018s
+ 
+/opt/FreeBSD9-orig.tar - 26 prods - 26 cons - Buffer 32768 Bytes :
+
+real	0m5.398s
+user	0m5.511s
+sys	0m2.804s
+ 
+/opt/FreeBSD9-orig.tar - 26 prods - 26 cons - Buffer 65536 Bytes :
+
+real	0m5.077s
+user	0m5.296s
+sys	0m2.730s
+ 
+/opt/FreeBSD9-orig.tar - 31 prods - 31 cons - Buffer 16384 Bytes :
+
+real	0m5.419s
+user	0m5.418s
+sys	0m2.934s
+ 
+/opt/FreeBSD9-orig.tar - 31 prods - 31 cons - Buffer 32768 Bytes :
+
+real	0m5.243s
+user	0m5.333s
+sys	0m2.882s
+ 
+/opt/FreeBSD9-orig.tar - 31 prods - 31 cons - Buffer 65536 Bytes :
+
+real	0m4.676s
+user	0m5.087s
+sys	0m2.601s
+ 
+/opt/FreeBSD9-orig.tar - 36 prods - 36 cons - Buffer 16384 Bytes :
+
+real	0m4.654s
+user	0m5.258s
+sys	0m2.409s
+ 
+/opt/FreeBSD9-orig.tar - 36 prods - 36 cons - Buffer 32768 Bytes :
+
+real	0m5.354s
+user	0m5.383s
+sys	0m2.884s
+ 
+/opt/FreeBSD9-orig.tar - 36 prods - 36 cons - Buffer 65536 Bytes :
+
+real	0m5.413s
+user	0m5.240s
+sys	0m3.109s
+ 
+/opt/FreeBSD9-orig.tar - 41 prods - 41 cons - Buffer 16384 Bytes :
+
+real	0m5.365s
+user	0m5.235s
+sys	0m3.039s
+ 
+/opt/FreeBSD9-orig.tar - 41 prods - 41 cons - Buffer 32768 Bytes :
+
+real	0m5.383s
+user	0m5.387s
+sys	0m2.922s
+ 
+/opt/FreeBSD9-orig.tar - 41 prods - 41 cons - Buffer 65536 Bytes :
+
+real	0m5.415s
+user	0m5.361s
+sys	0m2.985s
+ 
+/opt/FreeBSD9-orig.tar - 46 prods - 46 cons - Buffer 16384 Bytes :
+
+real	0m5.386s
+user	0m5.331s
+sys	0m2.988s
+ 
+/opt/FreeBSD9-orig.tar - 46 prods - 46 cons - Buffer 32768 Bytes :
+
+real	0m5.443s
+user	0m5.397s
+sys	0m2.998s
+ 
+/opt/FreeBSD9-orig.tar - 46 prods - 46 cons - Buffer 65536 Bytes :
+
+real	0m5.412s
+user	0m5.256s
+sys	0m3.079s
+ 
+/opt/FreeBSD9-orig.tar - 51 prods - 51 cons - Buffer 16384 Bytes :
+
+real	0m5.218s
+user	0m5.266s
+sys	0m2.899s
+ 
+/opt/FreeBSD9-orig.tar - 51 prods - 51 cons - Buffer 32768 Bytes :
+
+real	0m5.420s
+user	0m5.462s
+sys	0m2.899s
+ 
+/opt/FreeBSD9-orig.tar - 51 prods - 51 cons - Buffer 65536 Bytes :
+
+real	0m5.412s
+user	0m5.396s
+sys	0m2.923s
+ 
+/opt/FreeBSD9-orig.tar - 56 prods - 56 cons - Buffer 16384 Bytes :
+
+real	0m5.416s
+user	0m5.444s
+sys	0m2.897s
+ 
+/opt/FreeBSD9-orig.tar - 56 prods - 56 cons - Buffer 32768 Bytes :
+
+real	0m5.364s
+user	0m5.407s
+sys	0m2.884s
+ 
+/opt/FreeBSD9-orig.tar - 56 prods - 56 cons - Buffer 65536 Bytes :
+
+real	0m5.068s
+user	0m5.381s
+sys	0m2.637s
+ 
+/opt/FreeBSD9-orig.tar - 61 prods - 61 cons - Buffer 16384 Bytes :
+
+real	0m4.632s
+user	0m5.131s
+sys	0m2.490s
+ 
+/opt/FreeBSD9-orig.tar - 61 prods - 61 cons - Buffer 32768 Bytes :
+
+real	0m5.374s
+user	0m5.369s
+sys	0m2.946s
+ 
+/opt/FreeBSD9-orig.tar - 61 prods - 61 cons - Buffer 65536 Bytes :
+
+real	0m5.363s
+user	0m5.320s
+sys	0m2.973s
+ 
+/opt/FreeBSD9-orig.tar - 66 prods - 66 cons - Buffer 16384 Bytes :
+
+real	0m5.413s
+user	0m5.122s
+sys	0m3.221s
+ 
+/opt/FreeBSD9-orig.tar - 66 prods - 66 cons - Buffer 32768 Bytes :
+
+real	0m4.998s
+user	0m5.336s
+sys	0m2.627s
+ 
+/opt/FreeBSD9-orig.tar - 66 prods - 66 cons - Buffer 65536 Bytes :
+
+real	0m5.419s
+user	0m5.376s
+sys	0m2.988s
+ 
+/opt/FreeBSD9-orig.tar - 71 prods - 71 cons - Buffer 16384 Bytes :
+
+real	0m5.401s
+user	0m5.438s
+sys	0m2.903s
+ 
+/opt/FreeBSD9-orig.tar - 71 prods - 71 cons - Buffer 32768 Bytes :
+
+real	0m5.398s
+user	0m5.436s
+sys	0m2.899s
+ 
+/opt/FreeBSD9-orig.tar - 71 prods - 71 cons - Buffer 65536 Bytes :
+
+real	0m5.400s
+user	0m5.268s
+sys	0m3.065s
+ 
+/opt/FreeBSD9-orig.tar - 76 prods - 76 cons - Buffer 16384 Bytes :
+
+real	0m5.374s
+user	0m5.315s
+sys	0m2.978s
+ 
+/opt/FreeBSD9-orig.tar - 76 prods - 76 cons - Buffer 32768 Bytes :
+
+real	0m4.637s
+user	0m5.099s
+sys	0m2.537s
+ 
+/opt/FreeBSD9-orig.tar - 76 prods - 76 cons - Buffer 65536 Bytes :
+
+real	0m5.335s
+user	0m5.181s
+sys	0m3.069s
+ 
+/opt/FreeBSD9-orig.tar - 81 prods - 81 cons - Buffer 16384 Bytes :
+
+real	0m4.084s
+user	0m4.043s
+sys	0m2.286s
+ 
+/opt/FreeBSD9-orig.tar - 81 prods - 81 cons - Buffer 32768 Bytes :
+
+real	0m5.383s
+user	0m5.459s
+sys	0m2.859s
+ 
+/opt/FreeBSD9-orig.tar - 81 prods - 81 cons - Buffer 65536 Bytes :
+
+real	0m5.377s
+user	0m5.321s
+sys	0m3.000s
+ 
+/opt/FreeBSD9-orig.tar - 86 prods - 86 cons - Buffer 16384 Bytes :
+
+real	0m5.394s
+user	0m5.440s
+sys	0m2.891s
+ 
+/opt/FreeBSD9-orig.tar - 86 prods - 86 cons - Buffer 32768 Bytes :
+
+real	0m5.385s
+user	0m5.254s
+sys	0m3.050s
+ 
+/opt/FreeBSD9-orig.tar - 86 prods - 86 cons - Buffer 65536 Bytes :
+
+real	0m5.387s
+user	0m5.422s
+sys	0m2.898s
+ 
+/opt/FreeBSD9-orig.tar - 91 prods - 91 cons - Buffer 16384 Bytes :
+
+real	0m5.374s
+user	0m5.328s
+sys	0m2.976s
+ 
+/opt/FreeBSD9-orig.tar - 91 prods - 91 cons - Buffer 32768 Bytes :
+
+real	0m4.643s
+user	0m5.119s
+sys	0m2.523s
+ 
+/opt/FreeBSD9-orig.tar - 91 prods - 91 cons - Buffer 65536 Bytes :
+
+real	0m5.374s
+user	0m5.324s
+sys	0m2.973s
+ 
+/opt/FreeBSD9-orig.tar - 96 prods - 96 cons - Buffer 16384 Bytes :
+
+real	0m5.221s
+user	0m5.303s
+sys	0m2.895s
+ 
+/opt/FreeBSD9-orig.tar - 96 prods - 96 cons - Buffer 32768 Bytes :
+
+real	0m5.381s
+user	0m5.293s
+sys	0m3.025s
+ 
+/opt/FreeBSD9-orig.tar - 96 prods - 96 cons - Buffer 65536 Bytes :
+
+real	0m5.398s
+user	0m5.350s
+sys	0m3.009s
+ 
+/opt/FreeBSD9-orig.tar - 101 prods - 101 cons - Buffer 16384 Bytes :
+
+real	0m4.927s
+user	0m5.139s
+sys	0m2.767s
+ 
+/opt/FreeBSD9-orig.tar - 101 prods - 101 cons - Buffer 32768 Bytes :
+
+real	0m5.402s
+user	0m5.214s
+sys	0m3.146s
+ 
+/opt/FreeBSD9-orig.tar - 101 prods - 101 cons - Buffer 65536 Bytes :
+
+real	0m5.318s
+user	0m5.367s
+sys	0m2.861s
+ 
+/opt/FreeBSD9-orig.tar - 106 prods - 106 cons - Buffer 16384 Bytes :
+
+real	0m5.026s
+user	0m5.193s
+sys	0m2.783s
+ 
+/opt/FreeBSD9-orig.tar - 106 prods - 106 cons - Buffer 32768 Bytes :
+
+real	0m5.319s
+user	0m5.216s
+sys	0m3.049s
+ 
+/opt/FreeBSD9-orig.tar - 106 prods - 106 cons - Buffer 65536 Bytes :
+
+real	0m5.309s
+user	0m5.382s
+sys	0m2.856s
+ 
+/opt/FreeBSD9-orig.tar - 111 prods - 111 cons - Buffer 16384 Bytes :
+
+real	0m5.341s
+user	0m5.421s
+sys	0m2.851s
+ 
+/opt/FreeBSD9-orig.tar - 111 prods - 111 cons - Buffer 32768 Bytes :
+
+real	0m5.270s
+user	0m5.376s
+sys	0m2.841s
+ 
+/opt/FreeBSD9-orig.tar - 111 prods - 111 cons - Buffer 65536 Bytes :
+
+real	0m4.984s
+user	0m5.167s
+sys	0m2.741s
+ 
+/opt/FreeBSD9-orig.tar - 116 prods - 116 cons - Buffer 16384 Bytes :
+
+real	0m5.268s
+user	0m5.269s
+sys	0m2.920s
+ 
+/opt/FreeBSD9-orig.tar - 116 prods - 116 cons - Buffer 32768 Bytes :
+
+real	0m4.686s
+user	0m5.281s
+sys	0m2.395s
+ 
+/opt/FreeBSD9-orig.tar - 116 prods - 116 cons - Buffer 65536 Bytes :
+
+real	0m5.168s
+user	0m5.287s
+sys	0m2.852s
+ 
+/opt/FreeBSD9-orig.tar - 121 prods - 121 cons - Buffer 16384 Bytes :
+
+real	0m5.298s
+user	0m5.387s
+sys	0m2.834s
+ 
+/opt/FreeBSD9-orig.tar - 121 prods - 121 cons - Buffer 32768 Bytes :
+
+real	0m5.400s
+user	0m5.501s
+sys	0m2.821s
+ 
+/opt/FreeBSD9-orig.tar - 121 prods - 121 cons - Buffer 65536 Bytes :
+
+real	0m5.342s
+user	0m5.190s
+sys	0m3.090s
+ 
+/opt/FreeBSD9-orig.tar - 126 prods - 126 cons - Buffer 16384 Bytes :
+
+real	0m4.775s
+user	0m5.124s
+sys	0m2.635s
+ 
+/opt/FreeBSD9-orig.tar - 126 prods - 126 cons - Buffer 32768 Bytes :
+
+real	0m5.203s
+user	0m5.280s
+sys	0m2.904s
+ 
+/opt/FreeBSD9-orig.tar - 126 prods - 126 cons - Buffer 65536 Bytes :
+
+real	0m5.327s
+user	0m5.396s
+sys	0m2.857s
+ 
+/opt/FreeBSD9-orig.tar - 131 prods - 131 cons - Buffer 16384 Bytes :
+
+real	0m5.035s
+user	0m5.401s
+sys	0m2.605s
+ 
+/opt/FreeBSD9-orig.tar - 131 prods - 131 cons - Buffer 32768 Bytes :
+
+real	0m5.257s
+user	0m5.431s
+sys	0m2.791s
+ 
+/opt/FreeBSD9-orig.tar - 131 prods - 131 cons - Buffer 65536 Bytes :
+
+real	0m5.366s
+user	0m5.406s
+sys	0m2.915s
+ 
+/opt/FreeBSD9-orig.tar - 136 prods - 136 cons - Buffer 16384 Bytes :
+
+real	0m5.336s
+user	0m5.446s
+sys	0m2.816s
+ 
+/opt/FreeBSD9-orig.tar - 136 prods - 136 cons - Buffer 32768 Bytes :
+
+real	0m5.352s
+user	0m5.370s
+sys	0m2.937s
+ 
+/opt/FreeBSD9-orig.tar - 136 prods - 136 cons - Buffer 65536 Bytes :
+
+real	0m5.314s
+user	0m5.353s
+sys	0m2.885s
+ 
+/opt/FreeBSD9-orig.tar - 141 prods - 141 cons - Buffer 16384 Bytes :
+
+real	0m5.364s
+user	0m5.368s
+sys	0m2.926s
+ 
+/opt/FreeBSD9-orig.tar - 141 prods - 141 cons - Buffer 32768 Bytes :
+
+real	0m5.233s
+user	0m5.433s
+sys	0m2.768s
+ 
+/opt/FreeBSD9-orig.tar - 141 prods - 141 cons - Buffer 65536 Bytes :
+
+real	0m5.000s
+user	0m5.186s
+sys	0m2.783s
+ 
+/opt/FreeBSD9-orig.tar - 146 prods - 146 cons - Buffer 16384 Bytes :
+
+real	0m5.282s
+user	0m5.395s
+sys	0m2.835s
+ 
+/opt/FreeBSD9-orig.tar - 146 prods - 146 cons - Buffer 32768 Bytes :
+
+real	0m5.048s
+user	0m5.197s
+sys	0m2.810s
+ 
+/opt/FreeBSD9-orig.tar - 146 prods - 146 cons - Buffer 65536 Bytes :
+
+real	0m5.334s
+user	0m5.366s
+sys	0m2.900s
+ 
+/opt/FreeBSD9-orig.tar - 151 prods - 151 cons - Buffer 16384 Bytes :
+
+real	0m5.240s
+user	0m5.296s
+sys	0m2.930s
+ 
+/opt/FreeBSD9-orig.tar - 151 prods - 151 cons - Buffer 32768 Bytes :
+
+real	0m4.901s
+user	0m5.055s
+sys	0m2.822s
+ 
+/opt/FreeBSD9-orig.tar - 151 prods - 151 cons - Buffer 65536 Bytes :
+
+real	0m5.217s
+user	0m5.330s
+sys	0m2.851s
+ 
+/opt/FreeBSD9-orig.tar - 156 prods - 156 cons - Buffer 16384 Bytes :
+
+real	0m5.327s
+user	0m5.443s
+sys	0m2.836s
+ 
+/opt/FreeBSD9-orig.tar - 156 prods - 156 cons - Buffer 32768 Bytes :
+
+real	0m4.974s
+user	0m5.183s
+sys	0m2.784s
+ 
+/opt/FreeBSD9-orig.tar - 156 prods - 156 cons - Buffer 65536 Bytes :
+
+real	0m5.368s
+user	0m5.508s
+sys	0m2.790s
+ 
+/opt/FreeBSD9-orig.tar - 161 prods - 161 cons - Buffer 16384 Bytes :
+
+real	0m5.203s
+user	0m5.393s
+sys	0m2.804s
+ 
+/opt/FreeBSD9-orig.tar - 161 prods - 161 cons - Buffer 32768 Bytes :
+
+real	0m5.294s
+user	0m5.209s
+sys	0m3.023s
+ 
+/opt/FreeBSD9-orig.tar - 161 prods - 161 cons - Buffer 65536 Bytes :
+
+real	0m5.281s
+user	0m5.324s
+sys	0m2.922s
+ 
+/opt/FreeBSD9-orig.tar - 166 prods - 166 cons - Buffer 16384 Bytes :
+
+real	0m5.396s
+user	0m5.372s
+sys	0m2.972s
+ 
+/opt/FreeBSD9-orig.tar - 166 prods - 166 cons - Buffer 32768 Bytes :
+
+real	0m5.331s
+user	0m5.317s
+sys	0m2.947s
+ 
+/opt/FreeBSD9-orig.tar - 166 prods - 166 cons - Buffer 65536 Bytes :
+
+real	0m5.297s
+user	0m5.362s
+sys	0m2.873s
+ 
+/opt/FreeBSD9-orig.tar - 171 prods - 171 cons - Buffer 16384 Bytes :
+
+real	0m5.284s
+user	0m5.321s
+sys	0m2.920s
+ 
+/opt/FreeBSD9-orig.tar - 171 prods - 171 cons - Buffer 32768 Bytes :
+
+real	0m5.352s
+user	0m5.321s
+sys	0m2.978s
+ 
+/opt/FreeBSD9-orig.tar - 171 prods - 171 cons - Buffer 65536 Bytes :
+
+real	0m5.173s
+user	0m5.253s
+sys	0m2.932s
+ 
+/opt/FreeBSD9-orig.tar - 176 prods - 176 cons - Buffer 16384 Bytes :
+
+real	0m5.086s
+user	0m5.329s
+sys	0m2.732s
+ 
+/opt/FreeBSD9-orig.tar - 176 prods - 176 cons - Buffer 32768 Bytes :
+
+real	0m5.250s
+user	0m5.455s
+sys	0m2.767s
+ 
+/opt/FreeBSD9-orig.tar - 176 prods - 176 cons - Buffer 65536 Bytes :
+
+real	0m5.412s
+user	0m5.276s
+sys	0m3.082s
+ 
+/opt/FreeBSD9-orig.tar - 181 prods - 181 cons - Buffer 16384 Bytes :
+
+real	0m5.304s
+user	0m5.387s
+sys	0m2.879s
+ 
+/opt/FreeBSD9-orig.tar - 181 prods - 181 cons - Buffer 32768 Bytes :
+
+real	0m5.314s
+user	0m5.480s
+sys	0m2.807s
+ 
+/opt/FreeBSD9-orig.tar - 181 prods - 181 cons - Buffer 65536 Bytes :
+
+real	0m5.325s
+user	0m5.407s
+sys	0m2.868s
+ 
+/opt/FreeBSD9-orig.tar - 186 prods - 186 cons - Buffer 16384 Bytes :
+
+real	0m4.707s
+user	0m5.247s
+sys	0m2.488s
+ 
+/opt/FreeBSD9-orig.tar - 186 prods - 186 cons - Buffer 32768 Bytes :
+
+real	0m5.196s
+user	0m5.384s
+sys	0m2.810s
+ 
+/opt/FreeBSD9-orig.tar - 186 prods - 186 cons - Buffer 65536 Bytes :
+
+real	0m5.226s
+user	0m5.332s
+sys	0m2.874s
+ 
+/opt/FreeBSD9-orig.tar - 191 prods - 191 cons - Buffer 16384 Bytes :
+
+real	0m5.377s
+user	0m5.340s
+sys	0m2.983s
+ 
+/opt/FreeBSD9-orig.tar - 191 prods - 191 cons - Buffer 32768 Bytes :
+
+real	0m4.707s
+user	0m5.133s
+sys	0m2.606s
+ 
+/opt/FreeBSD9-orig.tar - 191 prods - 191 cons - Buffer 65536 Bytes :
+
+real	0m5.390s
+user	0m5.439s
+sys	0m2.893s
+ 
+/opt/FreeBSD9-orig.tar - 196 prods - 196 cons - Buffer 16384 Bytes :
+
+real	0m4.714s
+user	0m5.212s
+sys	0m2.527s
+ 
+/opt/FreeBSD9-orig.tar - 196 prods - 196 cons - Buffer 32768 Bytes :
+
+real	0m5.147s
+user	0m5.361s
+sys	0m2.778s
+ 
+/opt/FreeBSD9-orig.tar - 196 prods - 196 cons - Buffer 65536 Bytes :
+
+real	0m5.340s
+user	0m5.262s
+sys	0m3.021s
+ 
+/opt/FreeBSD9-orig.tar - 201 prods - 201 cons - Buffer 16384 Bytes :
+
+real	0m5.479s
+user	0m5.469s
+sys	0m2.976s
+ 
+/opt/FreeBSD9-orig.tar - 201 prods - 201 cons - Buffer 32768 Bytes :
+
+real	0m5.441s
+user	0m5.268s
+sys	0m3.131s
+ 
+/opt/FreeBSD9-orig.tar - 201 prods - 201 cons - Buffer 65536 Bytes :
+
+real	0m5.042s
+user	0m5.270s
+sys	0m2.758s
+ 
